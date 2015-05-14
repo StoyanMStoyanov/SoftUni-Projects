@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\2. Petar's Game\bin\Debug\_2.Petar_s_Game.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\2. Petar's Game\bin\Debug\_2.Petar_s_Game.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\2. Petar's Game\bin\Debug\_2.Petar_s_Game.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\2. Petar's Game\obj\Debug\_2.Petar_s_Game.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\2. Petar's Game\obj\Debug\_2.Petar_s_Game.pdb

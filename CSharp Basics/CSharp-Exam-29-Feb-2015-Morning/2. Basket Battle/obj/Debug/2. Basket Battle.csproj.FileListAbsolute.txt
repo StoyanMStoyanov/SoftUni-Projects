@@ -1,0 +1,6 @@
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\2. Basket Battle\bin\Debug\_2.Basket_Battle.exe.config
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\2. Basket Battle\bin\Debug\_2.Basket_Battle.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\2. Basket Battle\bin\Debug\_2.Basket_Battle.pdb
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\2. Basket Battle\obj\Debug\2. Basket Battle.csprojResolveAssemblyReference.cache
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\2. Basket Battle\obj\Debug\_2.Basket_Battle.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\2. Basket Battle\obj\Debug\_2.Basket_Battle.pdb

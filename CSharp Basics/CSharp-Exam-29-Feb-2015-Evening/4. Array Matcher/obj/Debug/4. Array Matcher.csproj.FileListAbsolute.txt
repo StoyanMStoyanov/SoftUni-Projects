@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\4. Array Matcher\bin\Debug\_4.Array_Matcher.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\4. Array Matcher\bin\Debug\_4.Array_Matcher.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\4. Array Matcher\bin\Debug\_4.Array_Matcher.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\4. Array Matcher\obj\Debug\4. Array Matcher.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\4. Array Matcher\obj\Debug\_4.Array_Matcher.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\4. Array Matcher\obj\Debug\_4.Array_Matcher.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\3. Headphones\bin\Debug\_3.Headphones.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\3. Headphones\bin\Debug\_3.Headphones.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\3. Headphones\bin\Debug\_3.Headphones.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\3. Headphones\obj\Debug\3. Headphones.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\3. Headphones\obj\Debug\_3.Headphones.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\3. Headphones\obj\Debug\_3.Headphones.pdb

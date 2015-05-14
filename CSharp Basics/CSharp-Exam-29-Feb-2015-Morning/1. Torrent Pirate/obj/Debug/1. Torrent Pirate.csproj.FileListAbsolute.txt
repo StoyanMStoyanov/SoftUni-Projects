@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\1. Torrent Pirate\bin\Debug\_1.Torrent_Pirate.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\1. Torrent Pirate\bin\Debug\_1.Torrent_Pirate.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\1. Torrent Pirate\bin\Debug\_1.Torrent_Pirate.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\1. Torrent Pirate\obj\Debug\1. Torrent Pirate.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\1. Torrent Pirate\obj\Debug\_1.Torrent_Pirate.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\1. Torrent Pirate\obj\Debug\_1.Torrent_Pirate.pdb

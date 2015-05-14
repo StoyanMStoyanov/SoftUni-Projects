@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\31. Huyvan numbers\bin\Debug\_31.Huyvan_numbers.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\31. Huyvan numbers\bin\Debug\_31.Huyvan_numbers.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\31. Huyvan numbers\bin\Debug\_31.Huyvan_numbers.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\31. Huyvan numbers\obj\Debug\_31.Huyvan_numbers.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\31. Huyvan numbers\obj\Debug\_31.Huyvan_numbers.pdb

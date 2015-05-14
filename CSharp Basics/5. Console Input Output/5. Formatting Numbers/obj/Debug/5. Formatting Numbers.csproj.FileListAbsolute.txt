@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.pdb

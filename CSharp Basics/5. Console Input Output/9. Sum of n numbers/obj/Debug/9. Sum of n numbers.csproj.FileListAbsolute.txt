@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\9. Sum of n numbers\bin\Debug\_9.Sum_of_n_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\9. Sum of n numbers\bin\Debug\_9.Sum_of_n_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\9. Sum of n numbers\bin\Debug\_9.Sum_of_n_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\9. Sum of n numbers\obj\Debug\9. Sum of n numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\9. Sum of n numbers\obj\Debug\_9.Sum_of_n_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\9. Sum of n numbers\obj\Debug\_9.Sum_of_n_numbers.pdb

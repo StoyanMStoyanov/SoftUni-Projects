@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\18. Nine-Digit Magic Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\18. Nine-Digit Magic Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\18. Nine-Digit Magic Numbers\bin\Debug\_18.Nine_Digit_Magic_Numbers.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\18. Nine-Digit Magic Numbers\obj\Debug\18. Nine-Digit Magic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\18. Nine-Digit Magic Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\18. Nine-Digit Magic Numbers\obj\Debug\_18.Nine_Digit_Magic_Numbers.pdb

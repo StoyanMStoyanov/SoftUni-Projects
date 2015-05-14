@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.pdb

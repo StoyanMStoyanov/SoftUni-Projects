@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\2. Print Company Information\bin\Debug\_2.Print_Company_Information.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\2. Print Company Information\bin\Debug\_2.Print_Company_Information.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\2. Print Company Information\bin\Debug\_2.Print_Company_Information.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\2. Print Company Information\obj\Debug\2. Print Company Information.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\2. Print Company Information\obj\Debug\_2.Print_Company_Information.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\2. Print Company Information\obj\Debug\_2.Print_Company_Information.pdb

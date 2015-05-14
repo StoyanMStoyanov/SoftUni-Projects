@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\1. Electricity\bin\Debug\_1.Electricity.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\1. Electricity\bin\Debug\_1.Electricity.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\1. Electricity\bin\Debug\_1.Electricity.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\1. Electricity\obj\Debug\1. Electricity.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\1. Electricity\obj\Debug\_1.Electricity.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\1. Electricity\obj\Debug\_1.Electricity.pdb

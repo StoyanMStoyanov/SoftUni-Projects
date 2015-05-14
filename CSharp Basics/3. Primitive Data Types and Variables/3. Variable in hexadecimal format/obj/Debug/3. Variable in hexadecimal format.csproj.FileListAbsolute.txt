@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\3. Variable in hexadecimal format\bin\Debug\_3.Variable_in_hexadecimal_format.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\3. Variable in hexadecimal format\bin\Debug\_3.Variable_in_hexadecimal_format.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\3. Variable in hexadecimal format\bin\Debug\_3.Variable_in_hexadecimal_format.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\3. Variable in hexadecimal format\obj\Debug\_3.Variable_in_hexadecimal_format.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\3. Variable in hexadecimal format\obj\Debug\_3.Variable_in_hexadecimal_format.pdb

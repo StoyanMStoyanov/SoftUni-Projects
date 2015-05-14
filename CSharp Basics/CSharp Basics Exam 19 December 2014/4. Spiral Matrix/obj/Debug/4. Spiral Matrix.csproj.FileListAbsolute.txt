@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\4. Spiral Matrix\bin\Debug\_4.Spiral_Matrix.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\4. Spiral Matrix\bin\Debug\_4.Spiral_Matrix.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\4. Spiral Matrix\bin\Debug\_4.Spiral_Matrix.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\4. Spiral Matrix\obj\Debug\4. Spiral Matrix.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\4. Spiral Matrix\obj\Debug\_4.Spiral_Matrix.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\4. Spiral Matrix\obj\Debug\_4.Spiral_Matrix.pdb

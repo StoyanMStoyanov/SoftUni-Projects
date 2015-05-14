@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\9. ExchangeVariableValues\bin\Debug\_9.ExchangeVariableValues.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\9. ExchangeVariableValues\bin\Debug\_9.ExchangeVariableValues.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\9. ExchangeVariableValues\bin\Debug\_9.ExchangeVariableValues.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\9. ExchangeVariableValues\obj\Debug\9. ExchangeVariableValues.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\9. ExchangeVariableValues\obj\Debug\_9.ExchangeVariableValues.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\9. ExchangeVariableValues\obj\Debug\_9.ExchangeVariableValues.pdb

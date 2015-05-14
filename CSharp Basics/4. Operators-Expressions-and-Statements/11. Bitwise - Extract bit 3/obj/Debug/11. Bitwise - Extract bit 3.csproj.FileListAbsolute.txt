@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\11. Bitwise - Extract bit 3\bin\Debug\_11.Bitwise___Extract_bit_3.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\11. Bitwise - Extract bit 3\bin\Debug\_11.Bitwise___Extract_bit_3.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\11. Bitwise - Extract bit 3\bin\Debug\_11.Bitwise___Extract_bit_3.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\11. Bitwise - Extract bit 3\obj\Debug\11. Bitwise - Extract bit 3.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\11. Bitwise - Extract bit 3\obj\Debug\_11.Bitwise___Extract_bit_3.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\11. Bitwise - Extract bit 3\obj\Debug\_11.Bitwise___Extract_bit_3.pdb

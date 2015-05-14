@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\11. Numbers dividable by number\bin\Debug\_11.Numbers_dividable_by_number.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\11. Numbers dividable by number\bin\Debug\_11.Numbers_dividable_by_number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\11. Numbers dividable by number\bin\Debug\_11.Numbers_dividable_by_number.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\11. Numbers dividable by number\obj\Debug\11. Numbers dividable by number.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\11. Numbers dividable by number\obj\Debug\_11.Numbers_dividable_by_number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\11. Numbers dividable by number\obj\Debug\_11.Numbers_dividable_by_number.pdb

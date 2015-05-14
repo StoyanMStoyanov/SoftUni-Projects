@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\6. Strings and Objects\bin\Debug\_6.Strings_and_Objects.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\6. Strings and Objects.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\6. Strings and Objects\obj\Debug\_6.Strings_and_Objects.pdb

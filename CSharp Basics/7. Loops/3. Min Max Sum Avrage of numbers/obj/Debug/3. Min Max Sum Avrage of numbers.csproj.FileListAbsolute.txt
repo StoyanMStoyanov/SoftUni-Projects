@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\3. Min Max Sum Avrage of numbers\bin\Debug\_3.Min_Max_Sum_Avrage_of_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\3. Min Max Sum Avrage of numbers\bin\Debug\_3.Min_Max_Sum_Avrage_of_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\3. Min Max Sum Avrage of numbers\bin\Debug\_3.Min_Max_Sum_Avrage_of_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\3. Min Max Sum Avrage of numbers\obj\Debug\3. Min Max Sum Avrage of numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\3. Min Max Sum Avrage of numbers\obj\Debug\_3.Min_Max_Sum_Avrage_of_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\3. Min Max Sum Avrage of numbers\obj\Debug\_3.Min_Max_Sum_Avrage_of_numbers.pdb

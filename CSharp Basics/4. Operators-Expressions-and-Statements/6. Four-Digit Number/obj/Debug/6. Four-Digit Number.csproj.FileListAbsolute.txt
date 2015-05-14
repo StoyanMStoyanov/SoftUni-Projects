@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\6. Four-Digit Number\bin\Debug\_6.Four_Digit_Number.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\6. Four-Digit Number\bin\Debug\_6.Four_Digit_Number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\6. Four-Digit Number\bin\Debug\_6.Four_Digit_Number.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\6. Four-Digit Number\obj\Debug\6. Four-Digit Number.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\6. Four-Digit Number\obj\Debug\_6.Four_Digit_Number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\6. Four-Digit Number\obj\Debug\_6.Four_Digit_Number.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\5. Paint Ball\bin\Debug\_5.Paint_Ball.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\5. Paint Ball\bin\Debug\_5.Paint_Ball.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\5. Paint Ball\bin\Debug\_5.Paint_Ball.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\5. Paint Ball\obj\Debug\5. Paint Ball.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\5. Paint Ball\obj\Debug\_5.Paint_Ball.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\5. Paint Ball\obj\Debug\_5.Paint_Ball.pdb

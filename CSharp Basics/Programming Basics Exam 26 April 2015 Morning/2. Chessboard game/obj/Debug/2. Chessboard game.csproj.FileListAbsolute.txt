@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\2. Chessboard game\bin\Debug\_2.Chessboard_game.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\2. Chessboard game\bin\Debug\_2.Chessboard_game.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\2. Chessboard game\bin\Debug\_2.Chessboard_game.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\2. Chessboard game\obj\Debug\_2.Chessboard_game.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\2. Chessboard game\obj\Debug\_2.Chessboard_game.pdb

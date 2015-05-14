@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\14. Modify a bit at given position\bin\Debug\_14.Modify_a_bit_at_given_position.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\14. Modify a bit at given position\bin\Debug\_14.Modify_a_bit_at_given_position.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\14. Modify a bit at given position\bin\Debug\_14.Modify_a_bit_at_given_position.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\14. Modify a bit at given position\obj\Debug\14. Modify a bit at given position.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\14. Modify a bit at given position\obj\Debug\_14.Modify_a_bit_at_given_position.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\14. Modify a bit at given position\obj\Debug\_14.Modify_a_bit_at_given_position.pdb

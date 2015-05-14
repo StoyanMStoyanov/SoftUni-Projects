@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\1. Exchange if greater\bin\Debug\_1.Exchange_if_greater.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\1. Exchange if greater\bin\Debug\_1.Exchange_if_greater.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\1. Exchange if greater\bin\Debug\_1.Exchange_if_greater.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\1. Exchange if greater\obj\Debug\_1.Exchange_if_greater.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\1. Exchange if greater\obj\Debug\_1.Exchange_if_greater.pdb

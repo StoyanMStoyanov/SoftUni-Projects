@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\ConsoleApplication1\obj\Debug\1. DeclareVaribles.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\9. Matrix of numbers\bin\Debug\_9.Matrix_of_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\9. Matrix of numbers\bin\Debug\_9.Matrix_of_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\9. Matrix of numbers\bin\Debug\_9.Matrix_of_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\9. Matrix of numbers\obj\Debug\_9.Matrix_of_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\9. Matrix of numbers\obj\Debug\_9.Matrix_of_numbers.pdb

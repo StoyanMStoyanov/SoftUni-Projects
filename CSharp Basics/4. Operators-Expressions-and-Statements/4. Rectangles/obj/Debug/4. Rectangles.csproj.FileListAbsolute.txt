@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\4. Rectangles\bin\Debug\_4.Rectangles.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\4. Rectangles\bin\Debug\_4.Rectangles.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\4. Rectangles\bin\Debug\_4.Rectangles.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\4. Rectangles\obj\Debug\_4.Rectangles.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\4. Rectangles\obj\Debug\_4.Rectangles.pdb

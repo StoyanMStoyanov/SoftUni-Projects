@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.pdb

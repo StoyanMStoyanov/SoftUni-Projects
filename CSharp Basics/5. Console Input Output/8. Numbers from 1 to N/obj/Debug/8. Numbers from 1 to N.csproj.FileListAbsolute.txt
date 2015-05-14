@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\8. Numbers from 1 to N\bin\Debug\_8.Numbers_from_1_to_N.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\8. Numbers from 1 to N\obj\Debug\8. Numbers from 1 to N.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\8. Numbers from 1 to N\bin\Debug\_8.Numbers_from_1_to_N.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\8. Numbers from 1 to N\bin\Debug\_8.Numbers_from_1_to_N.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\8. Numbers from 1 to N\obj\Debug\_8.Numbers_from_1_to_N.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\8. Numbers from 1 to N\obj\Debug\_8.Numbers_from_1_to_N.pdb

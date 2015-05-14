@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\1. Numbers from 1 to n\bin\Debug\_1.Numbers_from_1_to_n.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\1. Numbers from 1 to n\bin\Debug\_1.Numbers_from_1_to_n.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\1. Numbers from 1 to n\bin\Debug\_1.Numbers_from_1_to_n.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\1. Numbers from 1 to n\obj\Debug\1. Numbers from 1 to n.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\1. Numbers from 1 to n\obj\Debug\_1.Numbers_from_1_to_n.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\1. Numbers from 1 to n\obj\Debug\_1.Numbers_from_1_to_n.pdb

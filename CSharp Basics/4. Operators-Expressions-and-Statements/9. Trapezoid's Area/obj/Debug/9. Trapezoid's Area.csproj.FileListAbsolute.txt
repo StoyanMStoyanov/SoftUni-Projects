@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\9. Trapezoid's Area\bin\Debug\_9.Trapezoid_s_Area.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\9. Trapezoid's Area\bin\Debug\_9.Trapezoid_s_Area.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\9. Trapezoid's Area\bin\Debug\_9.Trapezoid_s_Area.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\9. Trapezoid's Area\obj\Debug\9. Trapezoid's Area.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\9. Trapezoid's Area\obj\Debug\_9.Trapezoid_s_Area.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\9. Trapezoid's Area\obj\Debug\_9.Trapezoid_s_Area.pdb

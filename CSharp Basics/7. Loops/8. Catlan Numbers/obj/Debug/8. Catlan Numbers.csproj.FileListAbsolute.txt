@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\8. Catlan Numbers\bin\Debug\_8.Catlan_Numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\8. Catlan Numbers\bin\Debug\_8.Catlan_Numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\8. Catlan Numbers\bin\Debug\_8.Catlan_Numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\8. Catlan Numbers\obj\Debug\8. Catlan Numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\8. Catlan Numbers\obj\Debug\_8.Catlan_Numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\8. Catlan Numbers\obj\Debug\_8.Catlan_Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\8. Prime number check\bin\Debug\_8.Prime_number_check.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\8. Prime number check\bin\Debug\_8.Prime_number_check.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\8. Prime number check\bin\Debug\_8.Prime_number_check.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\8. Prime number check\obj\Debug\8. Prime number check.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\8. Prime number check\obj\Debug\_8.Prime_number_check.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\8. Prime number check\obj\Debug\_8.Prime_number_check.pdb

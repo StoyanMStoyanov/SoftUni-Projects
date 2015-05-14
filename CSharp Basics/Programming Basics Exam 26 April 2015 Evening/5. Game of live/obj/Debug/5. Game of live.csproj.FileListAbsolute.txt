@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\5. Game of live\bin\Debug\_5.Game_of_live.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\5. Game of live\bin\Debug\_5.Game_of_live.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\5. Game of live\bin\Debug\_5.Game_of_live.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\5. Game of live\obj\Debug\5. Game of live.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\5. Game of live\obj\Debug\_5.Game_of_live.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\5. Game of live\obj\Debug\_5.Game_of_live.pdb

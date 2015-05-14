@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\3. Check for a play card\bin\Debug\_3.Check_for_a_play_card.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\3. Check for a play card\bin\Debug\_3.Check_for_a_play_card.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\3. Check for a play card\bin\Debug\_3.Check_for_a_play_card.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\3. Check for a play card\obj\Debug\3. Check for a play card.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\3. Check for a play card\obj\Debug\_3.Check_for_a_play_card.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\3. Check for a play card\obj\Debug\_3.Check_for_a_play_card.pdb

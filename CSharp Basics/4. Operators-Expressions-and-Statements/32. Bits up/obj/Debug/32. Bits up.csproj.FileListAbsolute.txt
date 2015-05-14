@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\32. Bits up\bin\Debug\_32.Bits_up.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\32. Bits up\bin\Debug\_32.Bits_up.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\32. Bits up\bin\Debug\_32.Bits_up.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\32. Bits up\obj\Debug\32. Bits up.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\32. Bits up\obj\Debug\_32.Bits_up.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\32. Bits up\obj\Debug\_32.Bits_up.pdb

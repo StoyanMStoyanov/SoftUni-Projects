@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\15. Bits exchange\bin\Debug\_15.Bits_exchange.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\15. Bits exchange\bin\Debug\_15.Bits_exchange.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\15. Bits exchange\bin\Debug\_15.Bits_exchange.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\15. Bits exchange\obj\Debug\15. Bits exchange.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\15. Bits exchange\obj\Debug\_15.Bits_exchange.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\15. Bits exchange\obj\Debug\_15.Bits_exchange.pdb

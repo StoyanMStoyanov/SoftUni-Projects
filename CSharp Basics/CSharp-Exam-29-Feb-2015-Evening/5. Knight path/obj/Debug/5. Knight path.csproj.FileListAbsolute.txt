@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\5. Knight path\bin\Debug\_5.Knight_path.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\5. Knight path\bin\Debug\_5.Knight_path.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\5. Knight path\bin\Debug\_5.Knight_path.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\5. Knight path\obj\Debug\5. Knight path.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\5. Knight path\obj\Debug\_5.Knight_path.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\5. Knight path\obj\Debug\_5.Knight_path.pdb

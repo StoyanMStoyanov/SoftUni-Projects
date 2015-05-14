@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\9. Play with Int, Double and String\bin\Debug\_9.Play_with_Int__Double_and_String.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\9. Play with Int, Double and String\obj\Debug\_9.Play_with_Int__Double_and_String.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\9. Play with Int, Double and String\obj\Debug\_9.Play_with_Int__Double_and_String.pdb

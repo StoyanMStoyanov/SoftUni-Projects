@@ -1,0 +1,12 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\15. The Football Player\bin\Debug\_15.The_Football_Player.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\15. The Football Player\bin\Debug\_15.The_Football_Player.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\15. The Football Player\bin\Debug\_15.The_Football_Player.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\15. The Football Player\obj\Debug\15. The Football Player.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\15. The Football Player\obj\Debug\_15.The_Football_Player.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\15. The Football Player\obj\Debug\_15.The_Football_Player.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\15. The Football Player\bin\Debug\_15.The_Football_Player.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\15. The Football Player\obj\Debug\_15.The_Football_Player.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\15. The Football Player\obj\Debug\_15.The_Football_Player.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\15. The Football Player\bin\Debug\_15.The_Football_Player.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\15. The Football Player\bin\Debug\_15.The_Football_Player.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\15. The Football Player\obj\Debug\15. The Football Player.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\1. Piggy Bank\bin\Debug\_1.Piggy_Bank.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\1. Piggy Bank\bin\Debug\_1.Piggy_Bank.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\1. Piggy Bank\bin\Debug\_1.Piggy_Bank.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\1. Piggy Bank\obj\Debug\1. Piggy Bank.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\1. Piggy Bank\obj\Debug\_1.Piggy_Bank.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\1. Piggy Bank\obj\Debug\_1.Piggy_Bank.pdb

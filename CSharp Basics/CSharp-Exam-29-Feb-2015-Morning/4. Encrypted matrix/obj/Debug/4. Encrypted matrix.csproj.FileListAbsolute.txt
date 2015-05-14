@@ -1,0 +1,6 @@
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\4. Encrypted matrix\bin\Debug\_4.Encrypted_matrix.exe.config
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\4. Encrypted matrix\bin\Debug\_4.Encrypted_matrix.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\4. Encrypted matrix\bin\Debug\_4.Encrypted_matrix.pdb
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\4. Encrypted matrix\obj\Debug\4. Encrypted matrix.csprojResolveAssemblyReference.cache
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\4. Encrypted matrix\obj\Debug\_4.Encrypted_matrix.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\4. Encrypted matrix\obj\Debug\_4.Encrypted_matrix.pdb

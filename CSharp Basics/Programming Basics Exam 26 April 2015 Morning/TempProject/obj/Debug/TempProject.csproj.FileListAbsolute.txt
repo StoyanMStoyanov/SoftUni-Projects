@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\TempProject\bin\Debug\TempProject.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\TempProject\bin\Debug\TempProject.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\TempProject\bin\Debug\TempProject.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\TempProject\obj\Debug\TempProject.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\TempProject\obj\Debug\TempProject.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\TempProject\obj\Debug\TempProject.pdb

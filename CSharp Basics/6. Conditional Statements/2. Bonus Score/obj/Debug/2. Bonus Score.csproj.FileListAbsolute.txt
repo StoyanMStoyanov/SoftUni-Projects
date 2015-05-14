@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\2. Bonus Score\bin\Debug\_2.Bonus_Score.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\2. Bonus Score\bin\Debug\_2.Bonus_Score.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\2. Bonus Score\bin\Debug\_2.Bonus_Score.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\2. Bonus Score\obj\Debug\2. Bonus Score.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\2. Bonus Score\obj\Debug\_2.Bonus_Score.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\2. Bonus Score\obj\Debug\_2.Bonus_Score.pdb

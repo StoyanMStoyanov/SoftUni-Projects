@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\1. Currency check\bin\Debug\_1.Currency_check.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\1. Currency check\bin\Debug\_1.Currency_check.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\1. Currency check\bin\Debug\_1.Currency_check.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\1. Currency check\obj\Debug\1. Currency check.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\1. Currency check\obj\Debug\_1.Currency_check.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\1. Currency check\obj\Debug\_1.Currency_check.pdb

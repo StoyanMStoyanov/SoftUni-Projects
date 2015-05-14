@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\2. Dream item\bin\Debug\_2.Dream_item.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\2. Dream item\bin\Debug\_2.Dream_item.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\2. Dream item\bin\Debug\_2.Dream_item.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\2. Dream item\obj\Debug\2. Dream item.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\2. Dream item\obj\Debug\_2.Dream_item.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Exam-29-Feb-2015-Evening\2. Dream item\obj\Debug\_2.Dream_item.pdb

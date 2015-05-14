@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\2. Gravitation on the Moon\bin\Debug\_2.Gravitation_on_the_Moon.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\2. Gravitation on the Moon\obj\Debug\_2.Gravitation_on_the_Moon.pdb

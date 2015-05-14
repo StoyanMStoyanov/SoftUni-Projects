@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\7. Sum of five numbers\bin\Debug\_7.Sum_of_five_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\7. Sum of five numbers\obj\Debug\7. Sum of five numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\7. Sum of five numbers\bin\Debug\_7.Sum_of_five_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\7. Sum of five numbers\bin\Debug\_7.Sum_of_five_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\7. Sum of five numbers\obj\Debug\_7.Sum_of_five_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\7. Sum of five numbers\obj\Debug\_7.Sum_of_five_numbers.pdb

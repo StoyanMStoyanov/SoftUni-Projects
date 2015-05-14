@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\6. Calculate n divide k factorials\bin\Debug\_6.Calculate_n_divide_k_factorials.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\6. Calculate n divide k factorials\bin\Debug\_6.Calculate_n_divide_k_factorials.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\6. Calculate n divide k factorials\bin\Debug\_6.Calculate_n_divide_k_factorials.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\6. Calculate n divide k factorials\obj\Debug\_6.Calculate_n_divide_k_factorials.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\6. Calculate n divide k factorials\obj\Debug\_6.Calculate_n_divide_k_factorials.pdb

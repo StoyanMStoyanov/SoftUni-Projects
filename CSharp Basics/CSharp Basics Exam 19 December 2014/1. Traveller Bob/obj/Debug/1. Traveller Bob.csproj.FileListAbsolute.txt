@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\1. Traveller Bob\bin\Debug\_1.Traveller_Bob.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\1. Traveller Bob\bin\Debug\_1.Traveller_Bob.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\1. Traveller Bob\bin\Debug\_1.Traveller_Bob.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\1. Traveller Bob\obj\Debug\1. Traveller Bob.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\1. Traveller Bob\obj\Debug\_1.Traveller_Bob.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\1. Traveller Bob\obj\Debug\_1.Traveller_Bob.pdb

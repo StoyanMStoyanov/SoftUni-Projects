@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\14. Print the ASCII Table\bin\Debug\_14.Print_the_ASCII_Table.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\14. Print the ASCII Table\obj\Debug\_14.Print_the_ASCII_Table.pdb

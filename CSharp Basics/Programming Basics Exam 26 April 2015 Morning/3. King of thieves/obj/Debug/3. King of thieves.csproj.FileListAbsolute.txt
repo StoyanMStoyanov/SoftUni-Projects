@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\3. King of thieves\bin\Debug\_3.King_of_thieves.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\3. King of thieves\bin\Debug\_3.King_of_thieves.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\3. King of thieves\bin\Debug\_3.King_of_thieves.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\3. King of thieves\obj\Debug\_3.King_of_thieves.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\3. King of thieves\obj\Debug\_3.King_of_thieves.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\3. King of thieves\obj\Debug\3. King of thieves.csprojResolveAssemblyReference.cache

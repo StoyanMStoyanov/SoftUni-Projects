@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\14. Sum of elements\bin\Debug\_14.Sum_of_elements.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\14. Sum of elements\bin\Debug\_14.Sum_of_elements.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\14. Sum of elements\bin\Debug\_14.Sum_of_elements.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\14. Sum of elements\obj\Debug\14. Sum of elements.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\14. Sum of elements\obj\Debug\_14.Sum_of_elements.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\14. Sum of elements\obj\Debug\_14.Sum_of_elements.pdb

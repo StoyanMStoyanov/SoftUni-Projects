@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb

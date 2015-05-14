@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\30. Eclipce\bin\Debug\_30.Eclipce.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\30. Eclipce\bin\Debug\_30.Eclipce.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\30. Eclipce\bin\Debug\_30.Eclipce.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\30. Eclipce\obj\Debug\30. Eclipce.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\30. Eclipce\obj\Debug\_30.Eclipce.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\4. Operators-Expressions-and-Statements\30. Eclipce\obj\Debug\_30.Eclipce.pdb

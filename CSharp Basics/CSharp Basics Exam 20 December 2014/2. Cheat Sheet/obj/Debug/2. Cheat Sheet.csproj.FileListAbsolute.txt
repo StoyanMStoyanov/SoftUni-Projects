@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\2. Cheat Sheet\bin\Debug\_2.Cheat_Sheet.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\2. Cheat Sheet\bin\Debug\_2.Cheat_Sheet.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\2. Cheat Sheet\bin\Debug\_2.Cheat_Sheet.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\2. Cheat Sheet\obj\Debug\2. Cheat Sheet.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\2. Cheat Sheet\obj\Debug\_2.Cheat_Sheet.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\2. Cheat Sheet\obj\Debug\_2.Cheat_Sheet.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\2. Spy Hard\bin\Debug\_2.Spy_Hard.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\2. Spy Hard\bin\Debug\_2.Spy_Hard.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\2. Spy Hard\bin\Debug\_2.Spy_Hard.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\2. Spy Hard\obj\Debug\2. Spy Hard.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\2. Spy Hard\obj\Debug\_2.Spy_Hard.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 19 December 2014\2. Spy Hard\obj\Debug\_2.Spy_Hard.pdb

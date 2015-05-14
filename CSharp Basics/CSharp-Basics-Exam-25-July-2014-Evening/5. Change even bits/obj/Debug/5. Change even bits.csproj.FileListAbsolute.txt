@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\5. Change even bits\bin\Debug\_5.Change_even_bits.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\5. Change even bits\bin\Debug\_5.Change_even_bits.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\5. Change even bits\bin\Debug\_5.Change_even_bits.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\5. Change even bits\obj\Debug\5. Change even bits.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\5. Change even bits\obj\Debug\_5.Change_even_bits.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\5. Change even bits\obj\Debug\_5.Change_even_bits.pdb

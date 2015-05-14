@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\7. Point in a circle\bin\Debug\_7.Point_in_a_circle.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\7. Point in a circle\bin\Debug\_7.Point_in_a_circle.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\7. Point in a circle\bin\Debug\_7.Point_in_a_circle.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\7. Point in a circle\obj\Debug\7. Point in a circle.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\7. Point in a circle\obj\Debug\_7.Point_in_a_circle.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\7. Point in a circle\obj\Debug\_7.Point_in_a_circle.pdb

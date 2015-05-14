@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\5. Calculate Faktoriel\bin\Debug\_5.Calculate_Faktoriel.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\5. Calculate Faktoriel\obj\Debug\5. Calculate Faktoriel.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\5. Calculate Faktoriel\bin\Debug\_5.Calculate_Faktoriel.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\5. Calculate Faktoriel\bin\Debug\_5.Calculate_Faktoriel.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\5. Calculate Faktoriel\obj\Debug\_5.Calculate_Faktoriel.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\5. Calculate Faktoriel\obj\Debug\_5.Calculate_Faktoriel.pdb

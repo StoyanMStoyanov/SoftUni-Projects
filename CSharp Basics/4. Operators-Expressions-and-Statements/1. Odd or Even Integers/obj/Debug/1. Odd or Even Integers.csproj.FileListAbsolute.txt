@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\1. Odd or Even Integers\bin\Debug\_1.Odd_or_Even_Integers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\1. Odd or Even Integers\bin\Debug\_1.Odd_or_Even_Integers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\1. Odd or Even Integers\bin\Debug\_1.Odd_or_Even_Integers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\1. Odd or Even Integers\obj\Debug\1. Odd or Even Integers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\1. Odd or Even Integers\obj\Debug\_1.Odd_or_Even_Integers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\1. Odd or Even Integers\obj\Debug\_1.Odd_or_Even_Integers.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\4.Print Cards\bin\Debug\4.Print Cards.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\4.Print Cards\bin\Debug\4.Print Cards.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\4.Print Cards\bin\Debug\4.Print Cards.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\4.Print Cards\obj\Debug\4.Print Cards.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\4.Print Cards\obj\Debug\4.Print Cards.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\4.Print Cards\obj\Debug\4.Print Cards.pdb

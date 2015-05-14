@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\6. Quadratic Equation\bin\Debug\_6.Quadratic_Equation.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\6. Quadratic Equation\obj\Debug\6. Quadratic Equation.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\6. Quadratic Equation\obj\Debug\_6.Quadratic_Equation.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\7.Calculate N K Combinations\bin\Debug\7.Calculate N K Combinations.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\7.Calculate N K Combinations\bin\Debug\7.Calculate N K Combinations.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\7.Calculate N K Combinations\bin\Debug\7.Calculate N K Combinations.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\7.Calculate N K Combinations\obj\Debug\7.Calculate N K Combinations.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\7.Calculate N K Combinations\obj\Debug\7.Calculate N K Combinations.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\7.Calculate N K Combinations\obj\Debug\7.Calculate N K Combinations.pdb

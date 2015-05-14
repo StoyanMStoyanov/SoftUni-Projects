@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\10. FibonacchiNumbers\bin\Debug\_10.FibonacchiNumbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\10. FibonacchiNumbers\bin\Debug\_10.FibonacchiNumbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\10. FibonacchiNumbers\bin\Debug\_10.FibonacchiNumbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\10. FibonacchiNumbers\obj\Debug\10. FibonacchiNumbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\10. FibonacchiNumbers\obj\Debug\_10.FibonacchiNumbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\10. FibonacchiNumbers\obj\Debug\_10.FibonacchiNumbers.pdb

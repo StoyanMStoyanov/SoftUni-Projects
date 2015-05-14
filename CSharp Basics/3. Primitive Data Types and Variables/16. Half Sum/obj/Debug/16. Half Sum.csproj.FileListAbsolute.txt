@@ -1,0 +1,12 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\16. Half Sum\obj\Debug\16. Half Sum.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\16. Half Sum\obj\Debug\_16.Half_Sum.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\16. Half Sum\obj\Debug\_16.Half_Sum.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\16. Half Sum\obj\Debug\_16.Half_Sum.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\16. Half Sum\obj\Debug\_16.Half_Sum.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\16. Half Sum\bin\Debug\_16.Half_Sum.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\16. Half Sum\obj\Debug\16. Half Sum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\10. Odd and even product\bin\Debug\_10.Odd_and_even_product.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\10. Odd and even product\bin\Debug\_10.Odd_and_even_product.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\10. Odd and even product\bin\Debug\_10.Odd_and_even_product.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\10. Odd and even product\obj\Debug\10. Odd and even product.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\10. Odd and even product\obj\Debug\_10.Odd_and_even_product.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\10. Odd and even product\obj\Debug\_10.Odd_and_even_product.pdb

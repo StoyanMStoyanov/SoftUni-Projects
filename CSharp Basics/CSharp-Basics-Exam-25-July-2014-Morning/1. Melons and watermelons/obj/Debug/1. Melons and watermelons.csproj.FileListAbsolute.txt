@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\1. Melons and watermelons\bin\Debug\_1.Melons_and_watermelons.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\1. Melons and watermelons\bin\Debug\_1.Melons_and_watermelons.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\1. Melons and watermelons\bin\Debug\_1.Melons_and_watermelons.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\1. Melons and watermelons\obj\Debug\1. Melons and watermelons.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\1. Melons and watermelons\obj\Debug\_1.Melons_and_watermelons.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\1. Melons and watermelons\obj\Debug\_1.Melons_and_watermelons.pdb

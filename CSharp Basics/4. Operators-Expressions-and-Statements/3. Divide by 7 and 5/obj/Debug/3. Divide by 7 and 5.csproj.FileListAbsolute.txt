@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\3. Divide by 7 and 5\bin\Debug\_3.Divide_by_7_and_5.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\3. Divide by 7 and 5\bin\Debug\_3.Divide_by_7_and_5.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\3. Divide by 7 and 5\bin\Debug\_3.Divide_by_7_and_5.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\3. Divide by 7 and 5\obj\Debug\3. Divide by 7 and 5.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\3. Divide by 7 and 5\obj\Debug\_3.Divide_by_7_and_5.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\3. Divide by 7 and 5\obj\Debug\_3.Divide_by_7_and_5.pdb

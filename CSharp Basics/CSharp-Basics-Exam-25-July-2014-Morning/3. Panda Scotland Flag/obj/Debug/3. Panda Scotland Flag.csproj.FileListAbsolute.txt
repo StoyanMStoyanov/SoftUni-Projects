@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\3. Panda Scotland Flag\bin\Debug\_3.Panda_Scotland_Flag.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\3. Panda Scotland Flag\bin\Debug\_3.Panda_Scotland_Flag.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\3. Panda Scotland Flag\bin\Debug\_3.Panda_Scotland_Flag.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\3. Panda Scotland Flag\obj\Debug\3. Panda Scotland Flag.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\3. Panda Scotland Flag\obj\Debug\_3.Panda_Scotland_Flag.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Morning\3. Panda Scotland Flag\obj\Debug\_3.Panda_Scotland_Flag.pdb

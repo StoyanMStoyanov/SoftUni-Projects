@@ -1,0 +1,6 @@
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\5. Game of bits\bin\Debug\_5.Game_of_bits.exe.config
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\5. Game of bits\bin\Debug\_5.Game_of_bits.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\5. Game of bits\bin\Debug\_5.Game_of_bits.pdb
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\5. Game of bits\obj\Debug\_5.Game_of_bits.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\5. Game of bits\obj\Debug\_5.Game_of_bits.pdb
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\5. Game of bits\obj\Debug\5. Game of bits.csprojResolveAssemblyReference.cache

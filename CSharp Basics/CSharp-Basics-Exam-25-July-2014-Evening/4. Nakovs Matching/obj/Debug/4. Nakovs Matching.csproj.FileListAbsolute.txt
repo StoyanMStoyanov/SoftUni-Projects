@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\4. Nakovs Matching\bin\Debug\_4.Nakovs_Matching.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\4. Nakovs Matching\obj\Debug\4. Nakovs Matching.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\4. Nakovs Matching\bin\Debug\_4.Nakovs_Matching.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\4. Nakovs Matching\bin\Debug\_4.Nakovs_Matching.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\4. Nakovs Matching\obj\Debug\_4.Nakovs_Matching.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\4. Nakovs Matching\obj\Debug\_4.Nakovs_Matching.pdb

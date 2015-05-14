@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\11. Number as words\bin\Debug\_11.Number_as_words.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\11. Number as words\bin\Debug\_11.Number_as_words.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\11. Number as words\bin\Debug\_11.Number_as_words.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\11. Number as words\obj\Debug\11. Number as words.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\11. Number as words\obj\Debug\_11.Number_as_words.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\11. Number as words\obj\Debug\_11.Number_as_words.pdb

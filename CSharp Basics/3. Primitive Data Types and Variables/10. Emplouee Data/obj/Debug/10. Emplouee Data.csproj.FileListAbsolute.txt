@@ -1,0 +1,9 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\10. Emplouee Data\bin\Debug\_10.Emplouee_Data.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\10. Emplouee Data\bin\Debug\_10.Emplouee_Data.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\10. Emplouee Data\bin\Debug\_10.Emplouee_Data.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\10. Emplouee Data\obj\Debug\10. Emplouee Data.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\10. Emplouee Data\obj\Debug\_10.Emplouee_Data.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\10. Emplouee Data\obj\Debug\_10.Emplouee_Data.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\10. Emplouee Data\bin\Debug\_10.Emplouee_Data.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\10. Emplouee Data\obj\Debug\_10.Emplouee_Data.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\10. Emplouee Data\obj\Debug\_10.Emplouee_Data.pdb

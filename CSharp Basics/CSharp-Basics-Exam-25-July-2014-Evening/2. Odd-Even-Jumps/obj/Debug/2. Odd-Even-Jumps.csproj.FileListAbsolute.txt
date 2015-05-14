@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\2. Odd-Even-Jumps\bin\Debug\_2.Odd_Even_Jumps.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\2. Odd-Even-Jumps\bin\Debug\_2.Odd_Even_Jumps.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\2. Odd-Even-Jumps\bin\Debug\_2.Odd_Even_Jumps.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\2. Odd-Even-Jumps\obj\Debug\2. Odd-Even-Jumps.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\2. Odd-Even-Jumps\obj\Debug\_2.Odd_Even_Jumps.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp-Basics-Exam-25-July-2014-Evening\2. Odd-Even-Jumps\obj\Debug\_2.Odd_Even_Jumps.pdb

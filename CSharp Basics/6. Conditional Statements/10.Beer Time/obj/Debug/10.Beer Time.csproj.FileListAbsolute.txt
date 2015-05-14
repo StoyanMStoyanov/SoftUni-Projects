@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\10.Beer Time\bin\Debug\10.Beer Time.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\10.Beer Time\bin\Debug\10.Beer Time.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\10.Beer Time\bin\Debug\10.Beer Time.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\10.Beer Time\obj\Debug\10.Beer Time.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\10.Beer Time\obj\Debug\10.Beer Time.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\10.Beer Time\obj\Debug\10.Beer Time.pdb

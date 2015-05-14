@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\5. Third digit is 7\bin\Debug\_5.Third_digit_is_7.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\5. Third digit is 7\bin\Debug\_5.Third_digit_is_7.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\5. Third digit is 7\bin\Debug\_5.Third_digit_is_7.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\5. Third digit is 7\obj\Debug\_5.Third_digit_is_7.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\5. Third digit is 7\obj\Debug\_5.Third_digit_is_7.pdb

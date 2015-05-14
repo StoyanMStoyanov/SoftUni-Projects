@@ -1,0 +1,11 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\2. Float or Double\bin\Debug\_2.Float_or_Double.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\2. Float or Double\bin\Debug\_2.Float_or_Double.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\2. Float or Double\bin\Debug\_2.Float_or_Double.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\2. Float or Double\bin\Debug\_2.Float_or_Double.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\2. Float or Double\obj\Debug\_2.Float_or_Double.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\2. Float or Double\bin\Debug\_2.Float_or_Double.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\2. Float or Double\bin\Debug\_2.Float_or_Double.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\2. Float or Double\obj\Debug\2. Float or Double.csprojResolveAssemblyReference.cache

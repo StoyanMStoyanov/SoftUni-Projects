@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\2. Number not divisible by 3 and 7\bin\Debug\_2.Number_not_divisible_by_3_and_7.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\2. Number not divisible by 3 and 7\bin\Debug\_2.Number_not_divisible_by_3_and_7.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\2. Number not divisible by 3 and 7\bin\Debug\_2.Number_not_divisible_by_3_and_7.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\2. Number not divisible by 3 and 7\obj\Debug\_2.Number_not_divisible_by_3_and_7.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\7. Loops\2. Number not divisible by 3 and 7\obj\Debug\_2.Number_not_divisible_by_3_and_7.pdb

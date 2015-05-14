@@ -1,0 +1,6 @@
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\5. Bits at Crossroads\bin\Debug\_5.Bits_at_Crossroads.exe.config
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\5. Bits at Crossroads\bin\Debug\_5.Bits_at_Crossroads.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\5. Bits at Crossroads\bin\Debug\_5.Bits_at_Crossroads.pdb
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\5. Bits at Crossroads\obj\Debug\5. Bits at Crossroads.csprojResolveAssemblyReference.cache
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\5. Bits at Crossroads\obj\Debug\_5.Bits_at_Crossroads.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\5. Bits at Crossroads\obj\Debug\_5.Bits_at_Crossroads.pdb

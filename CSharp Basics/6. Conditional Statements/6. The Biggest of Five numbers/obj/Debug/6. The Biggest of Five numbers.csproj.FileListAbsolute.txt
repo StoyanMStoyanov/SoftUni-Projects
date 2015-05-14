@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\6. The Biggest of Five numbers\bin\Debug\_6.The_Biggest_of_Five_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\6. The Biggest of Five numbers\bin\Debug\_6.The_Biggest_of_Five_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\6. The Biggest of Five numbers\bin\Debug\_6.The_Biggest_of_Five_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\6. The Biggest of Five numbers\obj\Debug\6. The Biggest of Five numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\6. The Biggest of Five numbers\obj\Debug\_6.The_Biggest_of_Five_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\6. The Biggest of Five numbers\obj\Debug\_6.The_Biggest_of_Five_numbers.pdb

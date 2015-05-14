@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\1. Compound Interest\bin\Debug\_1.Compound_Interest.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\1. Compound Interest\bin\Debug\_1.Compound_Interest.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\1. Compound Interest\bin\Debug\_1.Compound_Interest.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\1. Compound Interest\obj\Debug\1. Compound Interest.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\1. Compound Interest\obj\Debug\_1.Compound_Interest.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Programming Basics Exam 26 April 2015 Evening\1. Compound Interest\obj\Debug\_1.Compound_Interest.pdb

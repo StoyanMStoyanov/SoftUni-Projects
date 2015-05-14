@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\4.Number Comparer\bin\Debug\4.Number Comparer.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\4.Number Comparer\bin\Debug\4.Number Comparer.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\4.Number Comparer\bin\Debug\4.Number Comparer.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\4.Number Comparer\obj\Debug\4.Number Comparer.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\4.Number Comparer\obj\Debug\4.Number Comparer.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\1. Book problem\bin\Debug\_1.Book_problem.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\1. Book problem\bin\Debug\_1.Book_problem.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\1. Book problem\bin\Debug\_1.Book_problem.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\1. Book problem\obj\Debug\1. Book problem.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\1. Book problem\obj\Debug\_1.Book_problem.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\1. Book problem\obj\Debug\_1.Book_problem.pdb

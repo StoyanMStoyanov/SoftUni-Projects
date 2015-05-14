@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\4. Multiplication sum\bin\Debug\_4.Multiplication_sum.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\4. Multiplication sum\bin\Debug\_4.Multiplication_sum.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\4. Multiplication sum\bin\Debug\_4.Multiplication_sum.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\4. Multiplication sum\obj\Debug\4. Multiplication sum.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\4. Multiplication sum\obj\Debug\_4.Multiplication_sum.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\6. Conditional Statements\4. Multiplication sum\obj\Debug\_4.Multiplication_sum.pdb

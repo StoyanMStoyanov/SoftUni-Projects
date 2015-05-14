@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\3. Boat\bin\Debug\_3.Boat.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\3. Boat\bin\Debug\_3.Boat.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\3. Boat\bin\Debug\_3.Boat.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\3. Boat\obj\Debug\3. Boat.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\3. Boat\obj\Debug\_3.Boat.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\CSharp Basics Exam 20 December 2014\3. Boat\obj\Debug\_3.Boat.pdb

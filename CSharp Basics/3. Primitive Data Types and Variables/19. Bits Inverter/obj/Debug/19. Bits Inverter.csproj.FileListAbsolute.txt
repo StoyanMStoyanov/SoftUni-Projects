@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\19. Bits Inverter\bin\Debug\_19.Bits_Inverter.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\19. Bits Inverter\bin\Debug\_19.Bits_Inverter.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\19. Bits Inverter\bin\Debug\_19.Bits_Inverter.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\19. Bits Inverter\obj\Debug\19. Bits Inverter.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\19. Bits Inverter\obj\Debug\_19.Bits_Inverter.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\3. Primitive Data Types and Variables\19. Bits Inverter\obj\Debug\_19.Bits_Inverter.pdb

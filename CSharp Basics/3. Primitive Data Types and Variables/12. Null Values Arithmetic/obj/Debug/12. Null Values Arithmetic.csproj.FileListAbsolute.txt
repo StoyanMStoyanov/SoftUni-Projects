@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\12. Null Values Arithmetic\bin\Debug\_12.Null_Values_Arithmetic.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\12. Null Values Arithmetic\bin\Debug\_12.Null_Values_Arithmetic.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\12. Null Values Arithmetic\bin\Debug\_12.Null_Values_Arithmetic.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\12. Null Values Arithmetic\obj\Debug\_12.Null_Values_Arithmetic.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Primitive Data Types and Variables\12. Null Values Arithmetic\obj\Debug\_12.Null_Values_Arithmetic.pdb

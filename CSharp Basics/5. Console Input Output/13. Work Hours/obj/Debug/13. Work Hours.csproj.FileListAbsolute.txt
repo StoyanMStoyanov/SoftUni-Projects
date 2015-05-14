@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\13. Work Hours\bin\Debug\_13.Work_Hours.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\13. Work Hours\bin\Debug\_13.Work_Hours.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\13. Work Hours\bin\Debug\_13.Work_Hours.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\13. Work Hours\obj\Debug\13. Work Hours.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\13. Work Hours\obj\Debug\_13.Work_Hours.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\5. Console Input Output\13. Work Hours\obj\Debug\_13.Work_Hours.pdb

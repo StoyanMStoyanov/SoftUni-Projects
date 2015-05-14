@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\4. Decrypt the message\bin\Debug\_4.Decrypt_the_message.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\4. Decrypt the message\bin\Debug\_4.Decrypt_the_message.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\4. Decrypt the message\bin\Debug\_4.Decrypt_the_message.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\4. Decrypt the message\obj\Debug\_4.Decrypt_the_message.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\4. Decrypt the message\obj\Debug\_4.Decrypt_the_message.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\Programming Basics Exam 26 April 2015 Morning\4. Decrypt the message\obj\Debug\4. Decrypt the message.csprojResolveAssemblyReference.cache

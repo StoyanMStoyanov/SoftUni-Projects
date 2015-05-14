@@ -1,0 +1,6 @@
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\3. Dumbbell\bin\Debug\_3.Dumbbell.exe.config
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\3. Dumbbell\obj\Debug\3. Dumbbell.csprojResolveAssemblyReference.cache
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\3. Dumbbell\bin\Debug\_3.Dumbbell.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\3. Dumbbell\bin\Debug\_3.Dumbbell.pdb
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\3. Dumbbell\obj\Debug\_3.Dumbbell.exe
+c:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp-Exam-29-Feb-2015-Morning\3. Dumbbell\obj\Debug\_3.Dumbbell.pdb

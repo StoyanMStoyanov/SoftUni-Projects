@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\13. Check a bit at given position\bin\Debug\_13.Check_a_bit_at_given_position.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\13. Check a bit at given position\bin\Debug\_13.Check_a_bit_at_given_position.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\13. Check a bit at given position\bin\Debug\_13.Check_a_bit_at_given_position.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\13. Check a bit at given position\obj\Debug\_13.Check_a_bit_at_given_position.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Operators-Expressions-and-Statements\13. Check a bit at given position\obj\Debug\_13.Check_a_bit_at_given_position.pdb
