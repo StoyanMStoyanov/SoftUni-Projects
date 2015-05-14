@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\4. Sequence in matrix\bin\Debug\_4.Sequence_in_matrix.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\4. Sequence in matrix\obj\Debug\4. Sequence in matrix.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\4. Sequence in matrix\bin\Debug\_4.Sequence_in_matrix.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\4. Sequence in matrix\bin\Debug\_4.Sequence_in_matrix.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\4. Sequence in matrix\obj\Debug\_4.Sequence_in_matrix.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\4. Sequence in matrix\obj\Debug\_4.Sequence_in_matrix.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\8. Lego blocks\bin\Debug\_8.Lego_blocks.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\8. Lego blocks\bin\Debug\_8.Lego_blocks.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\8. Lego blocks\bin\Debug\_8.Lego_blocks.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\8. Lego blocks\obj\Debug\8. Lego blocks.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\8. Lego blocks\obj\Debug\_8.Lego_blocks.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\8. Lego blocks\obj\Debug\_8.Lego_blocks.pdb

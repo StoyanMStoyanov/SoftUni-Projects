@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\1. Fill the matrix - patternB\bin\Debug\_1.Fill_the_matrix___patternB.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\1. Fill the matrix - patternB\bin\Debug\_1.Fill_the_matrix___patternB.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\1. Fill the matrix - patternB\bin\Debug\_1.Fill_the_matrix___patternB.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\1. Fill the matrix - patternB\obj\Debug\_1.Fill_the_matrix___patternB.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\1. Fill the matrix - patternB\obj\Debug\_1.Fill_the_matrix___patternB.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\1. Fill the matrix - patternB\obj\Debug\1. Fill the matrix - patternB.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\2. Sort array with Selection sort\bin\Debug\_2.Sort_array_with_Selection_sort.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\2. Sort array with Selection sort\bin\Debug\_2.Sort_array_with_Selection_sort.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\2. Sort array with Selection sort\bin\Debug\_2.Sort_array_with_Selection_sort.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\2. Sort array with Selection sort\obj\Debug\_2.Sort_array_with_Selection_sort.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\2. Sort array with Selection sort\obj\Debug\_2.Sort_array_with_Selection_sort.pdb

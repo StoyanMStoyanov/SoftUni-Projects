@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\7. Sorted subset sums\bin\Debug\_7.Sorted_subset_sums.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\7. Sorted subset sums\bin\Debug\_7.Sorted_subset_sums.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\7. Sorted subset sums\bin\Debug\_7.Sorted_subset_sums.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\7. Sorted subset sums\obj\Debug\7. Sorted subset sums.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\7. Sorted subset sums\obj\Debug\_7.Sorted_subset_sums.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\7. Sorted subset sums\obj\Debug\_7.Sorted_subset_sums.pdb

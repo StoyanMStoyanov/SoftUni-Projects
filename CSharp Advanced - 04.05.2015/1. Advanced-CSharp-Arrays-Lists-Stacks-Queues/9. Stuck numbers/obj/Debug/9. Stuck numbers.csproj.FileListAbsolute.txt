@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\9. Stuck numbers\bin\Debug\_9.Stuck_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\9. Stuck numbers\bin\Debug\_9.Stuck_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\9. Stuck numbers\bin\Debug\_9.Stuck_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\9. Stuck numbers\obj\Debug\9. Stuck numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\9. Stuck numbers\obj\Debug\_9.Stuck_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\9. Stuck numbers\obj\Debug\_9.Stuck_numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\7. Generic array sort\bin\Debug\_7.Generic_array_sort.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\7. Generic array sort\bin\Debug\_7.Generic_array_sort.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\7. Generic array sort\bin\Debug\_7.Generic_array_sort.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\7. Generic array sort\obj\Debug\7. Generic array sort.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\7. Generic array sort\obj\Debug\_7.Generic_array_sort.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\7. Generic array sort\obj\Debug\_7.Generic_array_sort.pdb

@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sort array of numbers", "1. Sort array of numbers\1. Sort array of numbers.csproj", "{3B83681E-FC23-45FF-8708-5D1299724CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sort array with Selection sort", "2. Sort array with Selection sort\2. Sort array with Selection sort.csproj", "{34C3999E-EF0C-47D4-B4A1-F363BAED0D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Categorize numbers", "3. Categorize numbers\3. Categorize numbers.csproj", "{2F0658FC-DB8E-4DC4-BB9A-CD9E08464562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Sequences of equal strings", "4. Sequences of equal strings\4. Sequences of equal strings.csproj", "{7F806B10-BE57-4945-ACB3-49BFFF94F396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Longest increasing sequence", "5. Longest increasing sequence\5. Longest increasing sequence.csproj", "{6819D900-24DC-4B82-8495-858800BE4245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Subset sums", "6. Subset sums\6. Subset sums.csproj", "{37544803-91C4-44E3-BD15-2FCBB323341D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Lego blocks", "8. Lego blocks\8. Lego blocks.csproj", "{44624A5F-C833-4C6C-A9C4-A7C45AB94D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Sorted subset sums", "7. Sorted subset sums\7. Sorted subset sums.csproj", "{DEF9AB39-61C7-410D-9B79-1E62B77641BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Stuck numbers", "9. Stuck numbers\9. Stuck numbers.csproj", "{71EC9556-2AA1-4B93-A22F-A39CC81EC2F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temp project", "Temp project\Temp project.csproj", "{51086132-4608-4DAE-858A-E5EE7201B201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 Pithagorien numbers", "10 Pithagorien numbers\10 Pithagorien numbers.csproj", "{B6508E39-059E-4EFC-9744-EB014B982C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B83681E-FC23-45FF-8708-5D1299724CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B83681E-FC23-45FF-8708-5D1299724CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B83681E-FC23-45FF-8708-5D1299724CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B83681E-FC23-45FF-8708-5D1299724CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C3999E-EF0C-47D4-B4A1-F363BAED0D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C3999E-EF0C-47D4-B4A1-F363BAED0D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C3999E-EF0C-47D4-B4A1-F363BAED0D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C3999E-EF0C-47D4-B4A1-F363BAED0D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0658FC-DB8E-4DC4-BB9A-CD9E08464562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0658FC-DB8E-4DC4-BB9A-CD9E08464562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0658FC-DB8E-4DC4-BB9A-CD9E08464562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0658FC-DB8E-4DC4-BB9A-CD9E08464562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F806B10-BE57-4945-ACB3-49BFFF94F396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F806B10-BE57-4945-ACB3-49BFFF94F396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F806B10-BE57-4945-ACB3-49BFFF94F396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F806B10-BE57-4945-ACB3-49BFFF94F396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6819D900-24DC-4B82-8495-858800BE4245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6819D900-24DC-4B82-8495-858800BE4245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6819D900-24DC-4B82-8495-858800BE4245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6819D900-24DC-4B82-8495-858800BE4245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37544803-91C4-44E3-BD15-2FCBB323341D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37544803-91C4-44E3-BD15-2FCBB323341D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37544803-91C4-44E3-BD15-2FCBB323341D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37544803-91C4-44E3-BD15-2FCBB323341D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44624A5F-C833-4C6C-A9C4-A7C45AB94D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44624A5F-C833-4C6C-A9C4-A7C45AB94D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44624A5F-C833-4C6C-A9C4-A7C45AB94D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44624A5F-C833-4C6C-A9C4-A7C45AB94D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF9AB39-61C7-410D-9B79-1E62B77641BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF9AB39-61C7-410D-9B79-1E62B77641BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF9AB39-61C7-410D-9B79-1E62B77641BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF9AB39-61C7-410D-9B79-1E62B77641BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EC9556-2AA1-4B93-A22F-A39CC81EC2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EC9556-2AA1-4B93-A22F-A39CC81EC2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EC9556-2AA1-4B93-A22F-A39CC81EC2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EC9556-2AA1-4B93-A22F-A39CC81EC2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51086132-4608-4DAE-858A-E5EE7201B201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51086132-4608-4DAE-858A-E5EE7201B201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51086132-4608-4DAE-858A-E5EE7201B201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51086132-4608-4DAE-858A-E5EE7201B201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6508E39-059E-4EFC-9744-EB014B982C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6508E39-059E-4EFC-9744-EB014B982C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6508E39-059E-4EFC-9744-EB014B982C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6508E39-059E-4EFC-9744-EB014B982C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

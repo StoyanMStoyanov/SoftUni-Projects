@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\10 Pithagorien numbers\bin\Debug\10 Pithagorien numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\10 Pithagorien numbers\bin\Debug\10 Pithagorien numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\10 Pithagorien numbers\bin\Debug\10 Pithagorien numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\10 Pithagorien numbers\obj\Debug\10 Pithagorien numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\10 Pithagorien numbers\obj\Debug\10 Pithagorien numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\10 Pithagorien numbers\obj\Debug\10 Pithagorien numbers.pdb

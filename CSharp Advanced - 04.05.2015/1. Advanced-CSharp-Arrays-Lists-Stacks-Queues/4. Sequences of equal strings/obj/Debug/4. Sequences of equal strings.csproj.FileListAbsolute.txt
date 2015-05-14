@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\4. Sequences of equal strings\bin\Debug\_4.Sequences_of_equal_strings.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\4. Sequences of equal strings\bin\Debug\_4.Sequences_of_equal_strings.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\4. Sequences of equal strings\bin\Debug\_4.Sequences_of_equal_strings.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\4. Sequences of equal strings\obj\Debug\4. Sequences of equal strings.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\4. Sequences of equal strings\obj\Debug\_4.Sequences_of_equal_strings.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\4. Sequences of equal strings\obj\Debug\_4.Sequences_of_equal_strings.pdb

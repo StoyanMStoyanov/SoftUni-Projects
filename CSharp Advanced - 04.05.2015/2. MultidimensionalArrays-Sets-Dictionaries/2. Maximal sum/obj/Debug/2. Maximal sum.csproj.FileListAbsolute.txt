@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\2. Maximal sum\bin\Debug\_2.Maximal_sum.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\2. Maximal sum\bin\Debug\_2.Maximal_sum.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\2. Maximal sum\bin\Debug\_2.Maximal_sum.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\2. Maximal sum\obj\Debug\2. Maximal sum.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\2. Maximal sum\obj\Debug\_2.Maximal_sum.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\2. Maximal sum\obj\Debug\_2.Maximal_sum.pdb

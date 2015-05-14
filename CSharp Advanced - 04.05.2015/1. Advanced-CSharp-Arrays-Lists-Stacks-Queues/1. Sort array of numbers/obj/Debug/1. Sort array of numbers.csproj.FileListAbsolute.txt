@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Sort array of numbers\bin\Debug\_1.Sort_array_of_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Sort array of numbers\bin\Debug\_1.Sort_array_of_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Sort array of numbers\bin\Debug\_1.Sort_array_of_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Sort array of numbers\obj\Debug\1. Sort array of numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Sort array of numbers\obj\Debug\_1.Sort_array_of_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\1. Sort array of numbers\obj\Debug\_1.Sort_array_of_numbers.pdb

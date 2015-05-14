@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\4. First larger than neighbors\bin\Debug\_4.First_larger_than_neighbors.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\4. First larger than neighbors\bin\Debug\_4.First_larger_than_neighbors.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\4. First larger than neighbors\bin\Debug\_4.First_larger_than_neighbors.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\4. First larger than neighbors\obj\Debug\4. First larger than neighbors.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\4. First larger than neighbors\obj\Debug\_4.First_larger_than_neighbors.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\4. First larger than neighbors\obj\Debug\_4.First_larger_than_neighbors.pdb

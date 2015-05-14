@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\2. Last digit of number\bin\Debug\_2.Last_digit_of_number.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\2. Last digit of number\bin\Debug\_2.Last_digit_of_number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\2. Last digit of number\bin\Debug\_2.Last_digit_of_number.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\2. Last digit of number\obj\Debug\2. Last digit of number.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\2. Last digit of number\obj\Debug\_2.Last_digit_of_number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\2. Last digit of number\obj\Debug\_2.Last_digit_of_number.pdb

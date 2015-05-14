@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\3. Larger than Neighbours\bin\Debug\_3.Larger_than_Neighbours.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\3. Larger than Neighbours\bin\Debug\_3.Larger_than_Neighbours.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\3. Larger than Neighbours\bin\Debug\_3.Larger_than_Neighbours.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\3. Larger than Neighbours\obj\Debug\_3.Larger_than_Neighbours.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\3. Larger than Neighbours\obj\Debug\_3.Larger_than_Neighbours.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\5. Longest increasing sequence\bin\Debug\_5.Longest_increasing_sequence.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\5. Longest increasing sequence\bin\Debug\_5.Longest_increasing_sequence.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\5. Longest increasing sequence\bin\Debug\_5.Longest_increasing_sequence.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\5. Longest increasing sequence\obj\Debug\_5.Longest_increasing_sequence.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\5. Longest increasing sequence\obj\Debug\_5.Longest_increasing_sequence.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues\5. Longest increasing sequence\obj\Debug\5. Longest increasing sequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\1. Bigger Number\bin\Debug\_1.Bigger_Number.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\1. Bigger Number\obj\Debug\1. Bigger Number.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\1. Bigger Number\bin\Debug\_1.Bigger_Number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\1. Bigger Number\bin\Debug\_1.Bigger_Number.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\1. Bigger Number\obj\Debug\_1.Bigger_Number.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\1. Bigger Number\obj\Debug\_1.Bigger_Number.pdb

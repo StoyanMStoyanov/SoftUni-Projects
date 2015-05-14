@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Fill the matrih - patternA", "1. Fill the matrih - patternA\1. Fill the matrih - patternA.csproj", "{B44FA3F0-142F-4730-BAB4-FCA4D1343A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Fill the matrix - patternB", "1. Fill the matrix - patternB\1. Fill the matrix - patternB.csproj", "{7C089CA6-CDD4-4E53-9547-D791C89A5A3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Maximal sum", "2. Maximal sum\2. Maximal sum.csproj", "{925E7287-6ADC-4D04-88C2-E70E2AD2CBB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Sequence in matrix", "4. Sequence in matrix\4. Sequence in matrix.csproj", "{67F6D873-18F1-40EE-80A3-C41FD85F16BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Count sumbols", "6. Count sumbols\6. Count sumbols.csproj", "{7F1A3E34-4415-4924-861F-25A1F3FC88CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Phonebook", "7. Phonebook\7. Phonebook.csproj", "{C2BAAC82-817B-4791-9E45-727C1BDE009A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B44FA3F0-142F-4730-BAB4-FCA4D1343A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44FA3F0-142F-4730-BAB4-FCA4D1343A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44FA3F0-142F-4730-BAB4-FCA4D1343A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44FA3F0-142F-4730-BAB4-FCA4D1343A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C089CA6-CDD4-4E53-9547-D791C89A5A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C089CA6-CDD4-4E53-9547-D791C89A5A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C089CA6-CDD4-4E53-9547-D791C89A5A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C089CA6-CDD4-4E53-9547-D791C89A5A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925E7287-6ADC-4D04-88C2-E70E2AD2CBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925E7287-6ADC-4D04-88C2-E70E2AD2CBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925E7287-6ADC-4D04-88C2-E70E2AD2CBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925E7287-6ADC-4D04-88C2-E70E2AD2CBB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F6D873-18F1-40EE-80A3-C41FD85F16BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F6D873-18F1-40EE-80A3-C41FD85F16BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F6D873-18F1-40EE-80A3-C41FD85F16BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F6D873-18F1-40EE-80A3-C41FD85F16BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F1A3E34-4415-4924-861F-25A1F3FC88CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F1A3E34-4415-4924-861F-25A1F3FC88CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F1A3E34-4415-4924-861F-25A1F3FC88CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F1A3E34-4415-4924-861F-25A1F3FC88CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BAAC82-817B-4791-9E45-727C1BDE009A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BAAC82-817B-4791-9E45-727C1BDE009A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BAAC82-817B-4791-9E45-727C1BDE009A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BAAC82-817B-4791-9E45-727C1BDE009A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

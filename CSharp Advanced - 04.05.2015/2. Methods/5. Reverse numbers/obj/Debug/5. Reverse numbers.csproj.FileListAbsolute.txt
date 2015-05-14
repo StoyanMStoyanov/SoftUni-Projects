@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\5. Reverse numbers\bin\Debug\_5.Reverse_numbers.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\5. Reverse numbers\bin\Debug\_5.Reverse_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\5. Reverse numbers\bin\Debug\_5.Reverse_numbers.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\5. Reverse numbers\obj\Debug\5. Reverse numbers.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\5. Reverse numbers\obj\Debug\_5.Reverse_numbers.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\5. Reverse numbers\obj\Debug\_5.Reverse_numbers.pdb

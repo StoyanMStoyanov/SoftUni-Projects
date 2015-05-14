@@ -1,0 +1,5 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\6. Count sumbols\bin\Debug\_6.Count_sumbols.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\6. Count sumbols\bin\Debug\_6.Count_sumbols.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\6. Count sumbols\bin\Debug\_6.Count_sumbols.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\6. Count sumbols\obj\Debug\_6.Count_sumbols.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. MultidimensionalArrays-Sets-Dictionaries\6. Count sumbols\obj\Debug\_6.Count_sumbols.pdb

@@ -1,0 +1,6 @@
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\6. Number calculation\bin\Debug\_6.Number_calculation.exe.config
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\6. Number calculation\bin\Debug\_6.Number_calculation.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\6. Number calculation\bin\Debug\_6.Number_calculation.pdb
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\6. Number calculation\obj\Debug\6. Number calculation.csprojResolveAssemblyReference.cache
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\6. Number calculation\obj\Debug\_6.Number_calculation.exe
+c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\2. Methods\6. Number calculation\obj\Debug\_6.Number_calculation.pdb
