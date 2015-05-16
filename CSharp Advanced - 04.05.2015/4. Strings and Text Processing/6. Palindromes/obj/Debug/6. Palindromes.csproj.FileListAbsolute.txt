@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\6. Palindromes\bin\Debug\_6.Palindromes.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\6. Palindromes\bin\Debug\_6.Palindromes.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\6. Palindromes\bin\Debug\_6.Palindromes.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\6. Palindromes\obj\Debug\6. Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\6. Palindromes\obj\Debug\_6.Palindromes.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\6. Palindromes\obj\Debug\_6.Palindromes.pdb

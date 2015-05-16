@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\7. Letters change numbers\bin\Debug\_7.Letters_change_numbers.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\7. Letters change numbers\obj\Debug\7. Letters change numbers.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\7. Letters change numbers\bin\Debug\_7.Letters_change_numbers.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\7. Letters change numbers\bin\Debug\_7.Letters_change_numbers.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\7. Letters change numbers\obj\Debug\_7.Letters_change_numbers.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\7. Letters change numbers\obj\Debug\_7.Letters_change_numbers.pdb

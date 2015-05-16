@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\1. Reverse string\bin\Debug\_1.Reverse_string.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\1. Reverse string\bin\Debug\_1.Reverse_string.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\1. Reverse string\bin\Debug\_1.Reverse_string.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\1. Reverse string\obj\Debug\_1.Reverse_string.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\1. Reverse string\obj\Debug\_1.Reverse_string.pdb

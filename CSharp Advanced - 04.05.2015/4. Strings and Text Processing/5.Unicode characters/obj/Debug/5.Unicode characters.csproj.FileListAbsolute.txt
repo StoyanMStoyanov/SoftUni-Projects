@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\5.Unicode characters\bin\Debug\5.Unicode characters.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\5.Unicode characters\bin\Debug\5.Unicode characters.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\5.Unicode characters\bin\Debug\5.Unicode characters.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\5.Unicode characters\obj\Debug\5.Unicode characters.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\5.Unicode characters\obj\Debug\5.Unicode characters.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\5.Unicode characters\obj\Debug\5.Unicode characters.pdb

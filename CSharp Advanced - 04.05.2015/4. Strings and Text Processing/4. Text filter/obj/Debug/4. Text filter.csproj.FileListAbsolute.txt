@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\4. Text filter\bin\Debug\_4.Text_filter.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\4. Text filter\bin\Debug\_4.Text_filter.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\4. Text filter\bin\Debug\_4.Text_filter.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\4. Text filter\obj\Debug\4. Text filter.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\4. Text filter\obj\Debug\_4.Text_filter.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Strings and Text Processing\4. Text filter\obj\Debug\_4.Text_filter.pdb
