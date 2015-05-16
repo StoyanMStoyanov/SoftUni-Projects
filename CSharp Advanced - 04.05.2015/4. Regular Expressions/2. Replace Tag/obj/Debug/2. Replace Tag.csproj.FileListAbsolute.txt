@@ -3,3 +3,8 @@ c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expres
 c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\2. Replace Tag\bin\Debug\_2.Replace_Tag.pdb
 c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\2. Replace Tag\obj\Debug\_2.Replace_Tag.exe
 c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\2. Replace Tag\obj\Debug\_2.Replace_Tag.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\2. Replace Tag\bin\Debug\_2.Replace_Tag.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\2. Replace Tag\obj\Debug\_2.Replace_Tag.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\2. Replace Tag\obj\Debug\_2.Replace_Tag.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\2. Replace Tag\bin\Debug\_2.Replace_Tag.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\2. Replace Tag\bin\Debug\_2.Replace_Tag.pdb
