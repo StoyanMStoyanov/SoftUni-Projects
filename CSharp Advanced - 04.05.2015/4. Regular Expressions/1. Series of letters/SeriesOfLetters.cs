@@ -6,7 +6,7 @@ class SeriesOfLetters
 {
     static void Main()
     {
-        string letters = "aaaaabbbbbcdddeeeedssaa";
+        string letters = "aaaaaAAAAAbbbbbcdddeeeedssaa";
         string pattern = @"(\w)\1*";
         StringBuilder sb = new StringBuilder();
 
