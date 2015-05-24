@@ -15,7 +15,7 @@ class CopyBinaryFile
             using (destination)
             {
                 long fileLength = source.Length;
-                byte[] buffer = new byte[128000];
+                byte[] buffer = new byte[4096];
                 while (true)
                 {
                     int read = source.Read(buffer, 0, buffer.Length);
