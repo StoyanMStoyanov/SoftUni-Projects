@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLTags\bin\Debug\HTMLTags.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLTags\bin\Debug\HTMLTags.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLTags\bin\Debug\HTMLTags.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLTags\obj\Debug\HTMLTags.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLTags\obj\Debug\HTMLTags.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLTags\obj\Debug\HTMLTags.csprojResolveAssemblyReference.cache

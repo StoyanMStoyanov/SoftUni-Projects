@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempProgects", "TempProgects\TempProgects.csproj", "{02B3F0B5-8218-4C2B-8F74-8B9FFFFB7DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLTags", "HTMLTags\HTMLTags.csproj", "{5ED70BEF-A47B-449B-8E3E-B745233A24E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New HTML tags", "New HTML tags\New HTML tags.csproj", "{F1F0C561-587B-430B-A051-2864A03BCBA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLRegexFromTeleric", "HTMLRegexFromTeleric\HTMLRegexFromTeleric.csproj", "{5E6989B7-8A7A-4A44-96DC-85E143B1A352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letters", "Letters\Letters.csproj", "{58166483-2679-4C5C-A604-52A9E92E34BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMess", "QueryMess\QueryMess.csproj", "{7CEAAE76-841E-444B-A546-1168F84476E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B3F0B5-8218-4C2B-8F74-8B9FFFFB7DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B3F0B5-8218-4C2B-8F74-8B9FFFFB7DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B3F0B5-8218-4C2B-8F74-8B9FFFFB7DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B3F0B5-8218-4C2B-8F74-8B9FFFFB7DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED70BEF-A47B-449B-8E3E-B745233A24E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED70BEF-A47B-449B-8E3E-B745233A24E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED70BEF-A47B-449B-8E3E-B745233A24E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED70BEF-A47B-449B-8E3E-B745233A24E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F0C561-587B-430B-A051-2864A03BCBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F0C561-587B-430B-A051-2864A03BCBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F0C561-587B-430B-A051-2864A03BCBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F0C561-587B-430B-A051-2864A03BCBA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6989B7-8A7A-4A44-96DC-85E143B1A352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6989B7-8A7A-4A44-96DC-85E143B1A352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6989B7-8A7A-4A44-96DC-85E143B1A352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6989B7-8A7A-4A44-96DC-85E143B1A352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58166483-2679-4C5C-A604-52A9E92E34BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58166483-2679-4C5C-A604-52A9E92E34BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58166483-2679-4C5C-A604-52A9E92E34BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58166483-2679-4C5C-A604-52A9E92E34BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEAAE76-841E-444B-A546-1168F84476E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEAAE76-841E-444B-A546-1168F84476E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEAAE76-841E-444B-A546-1168F84476E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEAAE76-841E-444B-A546-1168F84476E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

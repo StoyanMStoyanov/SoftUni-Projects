@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\New HTML tags\bin\Debug\New HTML tags.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\New HTML tags\bin\Debug\New HTML tags.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\New HTML tags\bin\Debug\New HTML tags.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\New HTML tags\obj\Debug\New HTML tags.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\New HTML tags\obj\Debug\New HTML tags.pdb

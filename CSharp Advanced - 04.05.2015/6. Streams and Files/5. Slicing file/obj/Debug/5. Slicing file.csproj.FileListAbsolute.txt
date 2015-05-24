@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\5. Slicing file\bin\Debug\_5.Slicing_file.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\5. Slicing file\bin\Debug\_5.Slicing_file.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\5. Slicing file\bin\Debug\_5.Slicing_file.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\5. Slicing file\obj\Debug\5. Slicing file.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\5. Slicing file\obj\Debug\_5.Slicing_file.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\5. Slicing file\obj\Debug\_5.Slicing_file.pdb

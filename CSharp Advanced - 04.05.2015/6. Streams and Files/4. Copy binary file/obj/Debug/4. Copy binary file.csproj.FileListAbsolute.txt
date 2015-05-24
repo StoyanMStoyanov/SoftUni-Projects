@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\4. Copy binary file\bin\Debug\_4.Copy_binary_file.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\4. Copy binary file\bin\Debug\_4.Copy_binary_file.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\4. Copy binary file\bin\Debug\_4.Copy_binary_file.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\4. Copy binary file\obj\Debug\4. Copy binary file.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\4. Copy binary file\obj\Debug\_4.Copy_binary_file.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\4. Copy binary file\obj\Debug\_4.Copy_binary_file.pdb

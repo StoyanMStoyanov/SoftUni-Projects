@@ -1,0 +1,12 @@
+﻿Storage area networks (SANs), host bus adapters (HBAs), and logical unit numbers (LUNs)
+were once the sole domain of storage specialists, far removed from the expertise of
+your average Windows administrator. However, the arrival of new technologies, such as the
+Windows Virtual Disk service and Internet SCSI (iSCSI), along with the increasingly complex
+realities of enterprise storage, has brought these once-specialized topics into the realm
+of Windows Server 2008 administration. To be an effective Windows server administrator
+today, you still need to know the difference between the various RAID levels, but you also
+need to know quite a bit more about advanced server storage technologies.
+This chapter introduces you to the basics of disk management in Windows Server 2008
+R2, along with more advanced storage technologies such as SANs. The chapter then builds
+upon this storage information to introduce the various clustering technologies available in
+Windows Server 2008 R2

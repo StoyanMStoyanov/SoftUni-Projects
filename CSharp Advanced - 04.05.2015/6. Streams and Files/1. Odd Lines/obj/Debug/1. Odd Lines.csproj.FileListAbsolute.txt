@@ -1,0 +1,7 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\Streams and Files\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\1. Odd Lines\bin\Debug\_1.Odd_Lines.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\1. Odd Lines\obj\Debug\1. Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\1. Odd Lines\obj\Debug\_1.Odd_Lines.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\1. Odd Lines\obj\Debug\_1.Odd_Lines.pdb

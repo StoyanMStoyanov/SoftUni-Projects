@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLRegexFromTeleric\bin\Debug\HTMLRegexFromTeleric.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLRegexFromTeleric\bin\Debug\HTMLRegexFromTeleric.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLRegexFromTeleric\bin\Debug\HTMLRegexFromTeleric.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLRegexFromTeleric\obj\Debug\HTMLRegexFromTeleric.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLRegexFromTeleric\obj\Debug\HTMLRegexFromTeleric.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\HTMLRegexFromTeleric\obj\Debug\HTMLRegexFromTeleric.pdb

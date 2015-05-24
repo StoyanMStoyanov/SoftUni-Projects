@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\6. Zipping sliced files\bin\Debug\_6.Zipping_sliced_files.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\6. Zipping sliced files\bin\Debug\_6.Zipping_sliced_files.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\6. Zipping sliced files\bin\Debug\_6.Zipping_sliced_files.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\6. Zipping sliced files\obj\Debug\6. Zipping sliced files.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\6. Zipping sliced files\obj\Debug\_6.Zipping_sliced_files.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\6. Zipping sliced files\obj\Debug\_6.Zipping_sliced_files.pdb

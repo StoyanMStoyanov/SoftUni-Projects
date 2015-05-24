@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\2. Line numbers\bin\Debug\_2.Line_numbers.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\2. Line numbers\bin\Debug\_2.Line_numbers.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\2. Line numbers\bin\Debug\_2.Line_numbers.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\2. Line numbers\obj\Debug\_2.Line_numbers.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\6. Streams and Files\2. Line numbers\obj\Debug\_2.Line_numbers.pdb

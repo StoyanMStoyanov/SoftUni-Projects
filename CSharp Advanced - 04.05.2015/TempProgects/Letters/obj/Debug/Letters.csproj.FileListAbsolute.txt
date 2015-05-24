@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\Letters\bin\Debug\Letters.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\Letters\bin\Debug\Letters.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\Letters\bin\Debug\Letters.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\Letters\obj\Debug\Letters.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\TempProgects\Letters\obj\Debug\Letters.pdb

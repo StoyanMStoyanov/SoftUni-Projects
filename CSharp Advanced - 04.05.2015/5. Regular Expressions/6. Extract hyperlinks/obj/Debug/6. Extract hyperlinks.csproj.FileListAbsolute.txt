@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\6. Extract hyperlinks\bin\Debug\_6.Extract_hyperlinks.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\6. Extract hyperlinks\bin\Debug\_6.Extract_hyperlinks.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\6. Extract hyperlinks\bin\Debug\_6.Extract_hyperlinks.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\6. Extract hyperlinks\obj\Debug\6. Extract hyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\6. Extract hyperlinks\obj\Debug\_6.Extract_hyperlinks.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\6. Extract hyperlinks\obj\Debug\_6.Extract_hyperlinks.pdb

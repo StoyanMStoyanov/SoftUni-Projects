@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\7. Functional Programming\1. Class student\bin\Debug\_1.Class_student.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\7. Functional Programming\1. Class student\obj\Debug\1. Class student.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\7. Functional Programming\1. Class student\bin\Debug\_1.Class_student.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\7. Functional Programming\1. Class student\bin\Debug\_1.Class_student.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\7. Functional Programming\1. Class student\obj\Debug\_1.Class_student.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\7. Functional Programming\1. Class student\obj\Debug\_1.Class_student.pdb
