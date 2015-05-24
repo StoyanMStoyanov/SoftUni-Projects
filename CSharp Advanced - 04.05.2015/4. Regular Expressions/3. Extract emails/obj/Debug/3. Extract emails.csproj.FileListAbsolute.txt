@@ -1,8 +1,0 @@
-c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\3. Extract emails\bin\Debug\_3.Extract_emails.exe.config
-c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\3. Extract emails\bin\Debug\_3.Extract_emails.exe
-c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\3. Extract emails\bin\Debug\_3.Extract_emails.pdb
-c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\3. Extract emails\obj\Debug\_3.Extract_emails.exe
-c:\users\stoyan.stoyanov\documents\visual studio 2012\Projects\4. Regular Expressions\3. Extract emails\obj\Debug\_3.Extract_emails.pdb
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\3. Extract emails\bin\Debug\_3.Extract_emails.exe.config
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\3. Extract emails\obj\Debug\_3.Extract_emails.exe
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\3. Extract emails\obj\Debug\_3.Extract_emails.pdb

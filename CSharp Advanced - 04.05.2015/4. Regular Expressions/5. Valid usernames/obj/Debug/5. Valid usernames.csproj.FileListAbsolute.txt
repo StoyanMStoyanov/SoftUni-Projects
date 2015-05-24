@@ -1,6 +1,0 @@
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\5. Valid usernames\bin\Debug\_5.Valid_usernames.exe.config
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\5. Valid usernames\bin\Debug\_5.Valid_usernames.exe
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\5. Valid usernames\bin\Debug\_5.Valid_usernames.pdb
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\5. Valid usernames\obj\Debug\5. Valid usernames.csprojResolveAssemblyReference.cache
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\5. Valid usernames\obj\Debug\_5.Valid_usernames.exe
-C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\4. Regular Expressions\5. Valid usernames\obj\Debug\_5.Valid_usernames.pdb
