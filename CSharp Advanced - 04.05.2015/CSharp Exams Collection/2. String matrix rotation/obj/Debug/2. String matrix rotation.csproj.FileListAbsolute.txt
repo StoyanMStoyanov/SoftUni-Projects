@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\2. String matrix rotation\bin\Debug\_2.String_matrix_rotation.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\2. String matrix rotation\bin\Debug\_2.String_matrix_rotation.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\2. String matrix rotation\bin\Debug\_2.String_matrix_rotation.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\2. String matrix rotation\obj\Debug\2. String matrix rotation.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\2. String matrix rotation\obj\Debug\_2.String_matrix_rotation.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\2. String matrix rotation\obj\Debug\_2.String_matrix_rotation.pdb

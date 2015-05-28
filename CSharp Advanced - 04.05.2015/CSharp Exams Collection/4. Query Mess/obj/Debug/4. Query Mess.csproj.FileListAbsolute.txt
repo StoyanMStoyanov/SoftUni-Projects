@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\4. Query Mess\bin\Debug\_4.Query_Mess.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\4. Query Mess\bin\Debug\_4.Query_Mess.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\4. Query Mess\bin\Debug\_4.Query_Mess.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\4. Query Mess\obj\Debug\4. Query Mess.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\4. Query Mess\obj\Debug\_4.Query_Mess.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\4. Query Mess\obj\Debug\_4.Query_Mess.pdb

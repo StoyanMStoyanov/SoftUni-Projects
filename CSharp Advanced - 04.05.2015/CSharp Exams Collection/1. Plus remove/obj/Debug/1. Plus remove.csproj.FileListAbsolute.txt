@@ -1,0 +1,9 @@
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\1. Plus remove\bin\Debug\_1.Plus_remove.exe.config
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\1. Plus remove\bin\Debug\_1.Plus_remove.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\1. Plus remove\bin\Debug\_1.Plus_remove.pdb
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\1. Plus remove\obj\Debug\1. Plus remove.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\1. Plus remove\obj\Debug\_1.Plus_remove.exe
+C:\Users\stoyan.stoyanov\Documents\Visual Studio 2012\Projects\CSharp 22 November 2014\1. Plus remove\obj\Debug\_1.Plus_remove.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\1. Plus remove\bin\Debug\_1.Plus_remove.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\1. Plus remove\obj\Debug\_1.Plus_remove.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\1. Plus remove\obj\Debug\_1.Plus_remove.pdb
