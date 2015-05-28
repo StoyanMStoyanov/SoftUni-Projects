@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Letters", "Letters\Letters.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryMess", "QueryMess\QueryMess.csproj", "{7CEAAE76-841E-444B-A546-1168F84476E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension Methods", "Extension Methods\Extension Methods.csproj", "{E0611797-BE8C-40BB-94E4-A67924376129}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{7CEAAE76-841E-444B-A546-1168F84476E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CEAAE76-841E-444B-A546-1168F84476E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CEAAE76-841E-444B-A546-1168F84476E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0611797-BE8C-40BB-94E4-A67924376129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0611797-BE8C-40BB-94E4-A67924376129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0611797-BE8C-40BB-94E4-A67924376129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0611797-BE8C-40BB-94E4-A67924376129}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
