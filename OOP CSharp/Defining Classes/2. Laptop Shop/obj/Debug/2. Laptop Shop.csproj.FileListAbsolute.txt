@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\2. Laptop Shop\bin\Debug\_2.Laptop_Shop.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\2. Laptop Shop\bin\Debug\_2.Laptop_Shop.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\2. Laptop Shop\bin\Debug\_2.Laptop_Shop.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\2. Laptop Shop\obj\Debug\2. Laptop Shop.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\2. Laptop Shop\obj\Debug\_2.Laptop_Shop.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\2. Laptop Shop\obj\Debug\_2.Laptop_Shop.pdb

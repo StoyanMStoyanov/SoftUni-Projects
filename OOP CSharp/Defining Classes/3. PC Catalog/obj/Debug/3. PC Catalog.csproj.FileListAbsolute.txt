@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\3. PC Catalog\bin\Debug\_3.PC_Catalog.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\3. PC Catalog\bin\Debug\_3.PC_Catalog.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\3. PC Catalog\bin\Debug\_3.PC_Catalog.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\3. PC Catalog\obj\Debug\3. PC Catalog.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\3. PC Catalog\obj\Debug\_3.PC_Catalog.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\3. PC Catalog\obj\Debug\_3.PC_Catalog.pdb

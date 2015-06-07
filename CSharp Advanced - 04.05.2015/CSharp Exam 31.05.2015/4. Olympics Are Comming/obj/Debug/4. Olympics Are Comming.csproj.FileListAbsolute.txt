@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\4. Olympics Are Comming\bin\Debug\_4.Olympics_Are_Comming.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\4. Olympics Are Comming\bin\Debug\_4.Olympics_Are_Comming.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\4. Olympics Are Comming\bin\Debug\_4.Olympics_Are_Comming.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\4. Olympics Are Comming\obj\Debug\4. Olympics Are Comming.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\4. Olympics Are Comming\obj\Debug\_4.Olympics_Are_Comming.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\4. Olympics Are Comming\obj\Debug\_4.Olympics_Are_Comming.pdb

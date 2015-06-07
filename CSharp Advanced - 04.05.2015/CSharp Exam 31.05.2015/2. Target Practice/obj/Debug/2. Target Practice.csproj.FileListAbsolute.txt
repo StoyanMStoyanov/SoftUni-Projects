@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\2. Target Practice\bin\Debug\_2.Target_Practice.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\2. Target Practice\bin\Debug\_2.Target_Practice.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\2. Target Practice\bin\Debug\_2.Target_Practice.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\2. Target Practice\obj\Debug\_2.Target_Practice.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\2. Target Practice\obj\Debug\_2.Target_Practice.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\2. Target Practice\obj\Debug\2. Target Practice.csprojResolveAssemblyReference.cache

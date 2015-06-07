@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\3. Text Transformer\bin\Debug\_3.Text_Transformer.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\3. Text Transformer\bin\Debug\_3.Text_Transformer.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\3. Text Transformer\bin\Debug\_3.Text_Transformer.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\3. Text Transformer\obj\Debug\3. Text Transformer.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\3. Text Transformer\obj\Debug\_3.Text_Transformer.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exam 31.05.2015\3. Text Transformer\obj\Debug\_3.Text_Transformer.pdb

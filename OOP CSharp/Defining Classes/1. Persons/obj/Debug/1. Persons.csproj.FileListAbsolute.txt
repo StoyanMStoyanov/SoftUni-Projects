@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\1. Persons\bin\Debug\_1.Persons.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\1. Persons\bin\Debug\_1.Persons.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\1. Persons\bin\Debug\_1.Persons.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\1. Persons\obj\Debug\1. Persons.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\1. Persons\obj\Debug\_1.Persons.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Defining Classes\1. Persons\obj\Debug\_1.Persons.pdb
