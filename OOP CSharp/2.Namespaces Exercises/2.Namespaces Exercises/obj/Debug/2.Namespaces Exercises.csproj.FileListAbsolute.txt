@@ -1,0 +1,2 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2.Namespaces Exercises\2.Namespaces Exercises\bin\Debug\2.Namespaces Exercises.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2.Namespaces Exercises\2.Namespaces Exercises\obj\Debug\2.Namespaces Exercises.csprojResolveAssemblyReference.cache

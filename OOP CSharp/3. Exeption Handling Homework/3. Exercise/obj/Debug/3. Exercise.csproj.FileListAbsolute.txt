@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\3. Exercise\bin\Debug\_3.Exercise.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\3. Exercise\bin\Debug\_3.Exercise.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\3. Exercise\bin\Debug\_3.Exercise.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\3. Exercise\obj\Debug\3. Exercise.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\3. Exercise\obj\Debug\_3.Exercise.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\3. Exercise\obj\Debug\_3.Exercise.pdb
