@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\2. Enter Numbers\bin\Debug\_2.Enter_Numbers.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\2. Enter Numbers\bin\Debug\_2.Enter_Numbers.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\2. Enter Numbers\bin\Debug\_2.Enter_Numbers.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\2. Enter Numbers\obj\Debug\2. Enter Numbers.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\2. Enter Numbers\obj\Debug\_2.Enter_Numbers.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\2. Enter Numbers\obj\Debug\_2.Enter_Numbers.pdb

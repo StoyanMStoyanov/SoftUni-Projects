@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\1. Square Root\bin\Debug\_1.Square_Root.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\1. Square Root\bin\Debug\_1.Square_Root.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\1. Square Root\bin\Debug\_1.Square_Root.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\1. Square Root\obj\Debug\1. Square Root.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\1. Square Root\obj\Debug\_1.Square_Root.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\3. Exeption Handling Homework\1. Square Root\obj\Debug\_1.Square_Root.pdb
