@@ -1,0 +1,8 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\bin\Debug\_2.Distance_Calculator.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\obj\Debug\2. Distance Calculator.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\bin\Debug\_2.Distance_Calculator.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\bin\Debug\_2.Distance_Calculator.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\bin\Debug\_1.Point_3D.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\bin\Debug\_1.Point_3D.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\obj\Debug\_2.Distance_Calculator.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\2. Distance Calculator\obj\Debug\_2.Distance_Calculator.pdb

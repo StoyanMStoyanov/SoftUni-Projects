@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\1. Point 3D\bin\Debug\_1.Point_3D.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\1. Point 3D\bin\Debug\_1.Point_3D.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\1. Point 3D\bin\Debug\_1.Point_3D.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\1. Point 3D\obj\Debug\1. Point 3D.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\1. Point 3D\obj\Debug\_1.Point_3D.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\1. Point 3D\obj\Debug\_1.Point_3D.pdb

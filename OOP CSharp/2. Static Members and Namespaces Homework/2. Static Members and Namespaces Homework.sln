@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Point 3D", "1. Point 3D\1. Point 3D.csproj", "{734A4E83-FD59-474E-81E8-E269541AFB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Distance Calculator", "2. Distance Calculator\2. Distance Calculator.csproj", "{D16FBF77-F63C-4419-BE60-A364C058B229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Paths", "3. Paths\3. Paths.csproj", "{561AE093-FDFB-4566-8656-356E3503C191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Namespaces", "4. Namespaces\4. Namespaces.csproj", "{BFB74677-86E3-4920-AAEC-E8F6D267606F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{734A4E83-FD59-474E-81E8-E269541AFB03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734A4E83-FD59-474E-81E8-E269541AFB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734A4E83-FD59-474E-81E8-E269541AFB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734A4E83-FD59-474E-81E8-E269541AFB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16FBF77-F63C-4419-BE60-A364C058B229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16FBF77-F63C-4419-BE60-A364C058B229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16FBF77-F63C-4419-BE60-A364C058B229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16FBF77-F63C-4419-BE60-A364C058B229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561AE093-FDFB-4566-8656-356E3503C191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561AE093-FDFB-4566-8656-356E3503C191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561AE093-FDFB-4566-8656-356E3503C191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561AE093-FDFB-4566-8656-356E3503C191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB74677-86E3-4920-AAEC-E8F6D267606F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB74677-86E3-4920-AAEC-E8F6D267606F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB74677-86E3-4920-AAEC-E8F6D267606F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB74677-86E3-4920-AAEC-E8F6D267606F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

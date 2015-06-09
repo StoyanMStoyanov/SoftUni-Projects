@@ -1,0 +1,8 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\bin\Debug\_3.Paths.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\obj\Debug\3. Paths.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\bin\Debug\_3.Paths.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\bin\Debug\_3.Paths.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\bin\Debug\_1.Point_3D.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\bin\Debug\_1.Point_3D.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\obj\Debug\_3.Paths.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\2. Static Members and Namespaces Homework\3. Paths\obj\Debug\_3.Paths.pdb
