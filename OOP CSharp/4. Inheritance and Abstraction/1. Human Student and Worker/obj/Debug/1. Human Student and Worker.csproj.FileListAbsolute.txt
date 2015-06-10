@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\1. Human Student and Worker\bin\Debug\_1.Human_Student_and_Worker.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\1. Human Student and Worker\bin\Debug\_1.Human_Student_and_Worker.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\1. Human Student and Worker\bin\Debug\_1.Human_Student_and_Worker.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\1. Human Student and Worker\obj\Debug\1. Human Student and Worker.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\1. Human Student and Worker\obj\Debug\_1.Human_Student_and_Worker.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\1. Human Student and Worker\obj\Debug\_1.Human_Student_and_Worker.pdb

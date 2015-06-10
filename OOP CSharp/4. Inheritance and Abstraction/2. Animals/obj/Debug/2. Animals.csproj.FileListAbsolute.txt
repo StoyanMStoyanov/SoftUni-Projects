@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\2. Animals\obj\Debug\2. Animals.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\2. Animals\bin\Debug\_2.Animals.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\2. Animals\bin\Debug\_2.Animals.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\2. Animals\bin\Debug\_2.Animals.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\2. Animals\obj\Debug\_2.Animals.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\4. Inheritance and Abstraction\2. Animals\obj\Debug\_2.Animals.pdb
