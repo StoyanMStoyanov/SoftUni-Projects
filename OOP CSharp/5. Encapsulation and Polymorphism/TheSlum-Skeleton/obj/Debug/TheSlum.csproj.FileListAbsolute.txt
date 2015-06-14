@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Stoyan - 500GB\Programirane\SoftUni\OOP\5. Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+\\vmware-host\Shared Folders\Stoyan - 500GB\Programirane\SoftUni\OOP\5. Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+\\vmware-host\Shared Folders\Stoyan - 500GB\Programirane\SoftUni\OOP\5. Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Stoyan - 500GB\Programirane\SoftUni\OOP\5. Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+\\vmware-host\Shared Folders\Stoyan - 500GB\Programirane\SoftUni\OOP\5. Капсулация и полиморфизъм\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache

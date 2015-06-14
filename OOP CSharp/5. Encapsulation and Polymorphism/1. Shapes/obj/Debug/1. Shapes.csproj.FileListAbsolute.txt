@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\1. Shapes\bin\Debug\_1.Shapes.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\1. Shapes\obj\Debug\1. Shapes.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\1. Shapes\bin\Debug\_1.Shapes.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\1. Shapes\bin\Debug\_1.Shapes.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\1. Shapes\obj\Debug\_1.Shapes.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\1. Shapes\obj\Debug\_1.Shapes.pdb

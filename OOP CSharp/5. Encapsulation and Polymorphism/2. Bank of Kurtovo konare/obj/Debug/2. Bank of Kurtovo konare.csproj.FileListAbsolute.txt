@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\2. Bank of Kurtovo konare\bin\Debug\_2.Bank_of_Kurtovo_konare.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\2. Bank of Kurtovo konare\obj\Debug\2. Bank of Kurtovo konare.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\2. Bank of Kurtovo konare\bin\Debug\_2.Bank_of_Kurtovo_konare.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\2. Bank of Kurtovo konare\bin\Debug\_2.Bank_of_Kurtovo_konare.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\2. Bank of Kurtovo konare\obj\Debug\_2.Bank_of_Kurtovo_konare.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\5. Encapsulation and Polymorphism\2. Bank of Kurtovo konare\obj\Debug\_2.Bank_of_Kurtovo_konare.pdb
