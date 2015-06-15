@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates and Events Exercise", "Delegates and Events Exercise\Delegates and Events Exercise.csproj", "{187A8BA6-A19D-418B-9B3D-EA3CFA6F0F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187A8BA6-A19D-418B-9B3D-EA3CFA6F0F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187A8BA6-A19D-418B-9B3D-EA3CFA6F0F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187A8BA6-A19D-418B-9B3D-EA3CFA6F0F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187A8BA6-A19D-418B-9B3D-EA3CFA6F0F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
