@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\2. Fraction Calculator\bin\Debug\_2.Fraction_Calculator.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\2. Fraction Calculator\bin\Debug\_2.Fraction_Calculator.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\2. Fraction Calculator\bin\Debug\_2.Fraction_Calculator.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\2. Fraction Calculator\obj\Debug\2. Fraction Calculator.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\2. Fraction Calculator\obj\Debug\_2.Fraction_Calculator.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\2. Fraction Calculator\obj\Debug\_2.Fraction_Calculator.pdb

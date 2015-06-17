@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\3. GenericList\bin\Debug\_3.GenericList.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\3. GenericList\bin\Debug\_3.GenericList.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\3. GenericList\bin\Debug\_3.GenericList.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\3. GenericList\obj\Debug\_3.GenericList.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\3. GenericList\obj\Debug\_3.GenericList.pdb

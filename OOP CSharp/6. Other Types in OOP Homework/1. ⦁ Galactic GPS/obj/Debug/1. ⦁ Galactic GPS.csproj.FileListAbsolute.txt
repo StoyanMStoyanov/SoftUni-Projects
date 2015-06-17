@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\1. ⦁ Galactic GPS\bin\Debug\_1.__Galactic_GPS.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\1. ⦁ Galactic GPS\obj\Debug\1. ⦁ Galactic GPS.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\1. ⦁ Galactic GPS\bin\Debug\_1.__Galactic_GPS.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\1. ⦁ Galactic GPS\bin\Debug\_1.__Galactic_GPS.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\1. ⦁ Galactic GPS\obj\Debug\_1.__Galactic_GPS.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\6. Other Types in OOP Homework\1. ⦁ Galactic GPS\obj\Debug\_1.__Galactic_GPS.pdb
