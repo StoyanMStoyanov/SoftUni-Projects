@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\Interest calculator\bin\Debug\Interest calculator.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\Interest calculator\bin\Debug\Interest calculator.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\Interest calculator\bin\Debug\Interest calculator.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\Interest calculator\obj\Debug\Interest calculator.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\Interest calculator\obj\Debug\Interest calculator.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\Interest calculator\obj\Debug\Interest calculator.pdb

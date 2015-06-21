@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\1. Custom LINQ Extension methods\bin\Debug\_1.Custom_LINQ_Extension_methods.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\1. Custom LINQ Extension methods\bin\Debug\_1.Custom_LINQ_Extension_methods.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\1. Custom LINQ Extension methods\bin\Debug\_1.Custom_LINQ_Extension_methods.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\1. Custom LINQ Extension methods\obj\Debug\_1.Custom_LINQ_Extension_methods.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\1. Custom LINQ Extension methods\obj\Debug\_1.Custom_LINQ_Extension_methods.pdb

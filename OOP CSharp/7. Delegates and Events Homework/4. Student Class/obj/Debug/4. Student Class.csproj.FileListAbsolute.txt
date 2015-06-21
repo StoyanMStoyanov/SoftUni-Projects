@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\4. Student Class\bin\Debug\_4.Student_Class.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\4. Student Class\obj\Debug\4. Student Class.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\4. Student Class\bin\Debug\_4.Student_Class.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\4. Student Class\bin\Debug\_4.Student_Class.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\4. Student Class\obj\Debug\_4.Student_Class.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\4. Student Class\obj\Debug\_4.Student_Class.pdb

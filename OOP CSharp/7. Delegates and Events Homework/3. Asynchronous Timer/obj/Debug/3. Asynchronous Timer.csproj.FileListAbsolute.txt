@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\3. Asynchronous Timer\bin\Debug\_3.Asynchronous_Timer.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\3. Asynchronous Timer\obj\Debug\3. Asynchronous Timer.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\3. Asynchronous Timer\bin\Debug\_3.Asynchronous_Timer.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\3. Asynchronous Timer\bin\Debug\_3.Asynchronous_Timer.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\3. Asynchronous Timer\obj\Debug\_3.Asynchronous_Timer.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\7. Delegates and Events Homework\3. Asynchronous Timer\obj\Debug\_3.Asynchronous_Timer.pdb
