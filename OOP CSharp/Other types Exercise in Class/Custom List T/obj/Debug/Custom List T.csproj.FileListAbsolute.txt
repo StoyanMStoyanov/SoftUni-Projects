@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Other types Exercise in Class\Custom List T\bin\Debug\Custom List T.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Other types Exercise in Class\Custom List T\bin\Debug\Custom List T.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Other types Exercise in Class\Custom List T\bin\Debug\Custom List T.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Other types Exercise in Class\Custom List T\obj\Debug\Custom List T.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Other types Exercise in Class\Custom List T\obj\Debug\Custom List T.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\Other types Exercise in Class\Custom List T\obj\Debug\Custom List T.pdb
