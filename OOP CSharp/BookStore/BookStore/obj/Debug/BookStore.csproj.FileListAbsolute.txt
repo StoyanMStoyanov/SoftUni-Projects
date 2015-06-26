@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\BookStore\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\BookStore\BookStore\bin\Debug\BookStore.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\BookStore\BookStore\bin\Debug\BookStore.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\BookStore\BookStore\obj\Debug\BookStore.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\BookStore\BookStore\obj\Debug\BookStore.pdb
