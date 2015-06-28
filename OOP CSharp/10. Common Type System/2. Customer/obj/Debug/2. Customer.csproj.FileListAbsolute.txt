@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\2. Customer\bin\Debug\_2.Customer.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\2. Customer\obj\Debug\2. Customer.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\2. Customer\bin\Debug\_2.Customer.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\2. Customer\bin\Debug\_2.Customer.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\2. Customer\obj\Debug\_2.Customer.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\2. Customer\obj\Debug\_2.Customer.pdb

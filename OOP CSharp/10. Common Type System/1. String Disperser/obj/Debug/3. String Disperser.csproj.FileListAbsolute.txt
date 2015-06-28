@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\1. String Disperser\bin\Debug\_1.String_Disperser.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\1. String Disperser\bin\Debug\_1.String_Disperser.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\1. String Disperser\bin\Debug\_1.String_Disperser.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\1. String Disperser\obj\Debug\3. String Disperser.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\1. String Disperser\obj\Debug\_1.String_Disperser.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\OOP CSharp\10. Common Type System\1. String Disperser\obj\Debug\_1.String_Disperser.pdb
