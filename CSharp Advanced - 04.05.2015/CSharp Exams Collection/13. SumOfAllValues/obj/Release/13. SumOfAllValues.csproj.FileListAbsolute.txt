@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\13. SumOfAllValues\bin\Release\_13.SumOfAllValues.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\13. SumOfAllValues\bin\Release\_13.SumOfAllValues.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\13. SumOfAllValues\bin\Release\_13.SumOfAllValues.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\13. SumOfAllValues\obj\Release\_13.SumOfAllValues.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\13. SumOfAllValues\obj\Release\_13.SumOfAllValues.pdb

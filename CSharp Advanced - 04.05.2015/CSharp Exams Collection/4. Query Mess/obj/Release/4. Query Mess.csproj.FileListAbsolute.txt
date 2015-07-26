@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\4. Query Mess\bin\Release\_4.Query_Mess.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\4. Query Mess\bin\Release\_4.Query_Mess.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\4. Query Mess\bin\Release\_4.Query_Mess.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\4. Query Mess\obj\Release\_4.Query_Mess.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\4. Query Mess\obj\Release\_4.Query_Mess.pdb

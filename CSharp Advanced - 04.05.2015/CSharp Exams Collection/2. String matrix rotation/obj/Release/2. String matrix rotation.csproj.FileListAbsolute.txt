@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\2. String matrix rotation\bin\Release\_2.String_matrix_rotation.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\2. String matrix rotation\bin\Release\_2.String_matrix_rotation.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\2. String matrix rotation\bin\Release\_2.String_matrix_rotation.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\2. String matrix rotation\obj\Release\2. String matrix rotation.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\2. String matrix rotation\obj\Release\_2.String_matrix_rotation.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\2. String matrix rotation\obj\Release\_2.String_matrix_rotation.pdb

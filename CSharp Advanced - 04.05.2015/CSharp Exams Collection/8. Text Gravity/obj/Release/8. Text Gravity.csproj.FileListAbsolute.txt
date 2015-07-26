@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\8. Text Gravity\bin\Release\_8.Text_Gravity.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\8. Text Gravity\bin\Release\_8.Text_Gravity.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\8. Text Gravity\bin\Release\_8.Text_Gravity.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\8. Text Gravity\obj\Release\_8.Text_Gravity.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\8. Text Gravity\obj\Release\_8.Text_Gravity.pdb

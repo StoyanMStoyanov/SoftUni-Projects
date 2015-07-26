@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\bin\Release\_7.Vladkos_Notebook.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\bin\Release\_7.Vladkos_Notebook.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\bin\Release\_7.Vladkos_Notebook.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\obj\Release\_7.Vladkos_Notebook.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\obj\Release\_7.Vladkos_Notebook.pdb

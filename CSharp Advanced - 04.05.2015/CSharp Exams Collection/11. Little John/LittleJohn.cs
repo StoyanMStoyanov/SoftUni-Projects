@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Linq;
 
 class LittleJohn
 {
@@ -12,27 +13,26 @@ class LittleJohn
             string line = Console.ReadLine();
             if (line == "end" | line == "END" | line == "End") break;
             sb.AppendLine(line);
-
         }
-        //int index = sb.ToString().IndexOf(">----->");
         string arrowPattern = @"(>----->)|(>>----->)|(>>>----->>)";
-        Regex ma = new Regex(arrowPattern);
-        MatchCollection matches = ma.Matches (sb.ToString());
+        Regex match = new Regex(arrowPattern);
+        MatchCollection matches = match.Matches (sb.ToString());
         int smallArrow = 0;
+        //var small = matches[2].Groups.Count;
+        //Console.WriteLine( small);
         int mediumArrow = 0;
         int largeArrow = 0;
         foreach (var item in matches)
         {
             if (item.ToString() == ">----->") smallArrow++;
             else if (item.ToString() ==">>----->") mediumArrow++;
-            else largeArrow++;
-            //Console.WriteLine(item);
+            else largeArrow++;            
         }
         StringBuilder intValue = new StringBuilder();
         intValue.Append(smallArrow);
         intValue.Append(mediumArrow);
         intValue.Append(largeArrow);
-        //Console.WriteLine(intValue);
+        
         string binaryValue = Convert.ToString(int.Parse(intValue.ToString()), 2);
         string rewBinaryValue = Reverse(binaryValue);
         Console.WriteLine(Convert.ToInt32(binaryValue+rewBinaryValue, 2));

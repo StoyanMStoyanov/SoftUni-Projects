@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\14. Matrix Shuffle\bin\Debug\_14.Matrix_Shuffle.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\14. Matrix Shuffle\bin\Debug\_14.Matrix_Shuffle.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\14. Matrix Shuffle\bin\Debug\_14.Matrix_Shuffle.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\14. Matrix Shuffle\obj\Debug\14. Matrix Shuffle.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\14. Matrix Shuffle\obj\Debug\_14.Matrix_Shuffle.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\14. Matrix Shuffle\obj\Debug\_14.Matrix_Shuffle.pdb

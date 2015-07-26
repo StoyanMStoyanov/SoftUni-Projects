@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\bin\Debug\_7.Vladkos_Notebook.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\bin\Debug\_7.Vladkos_Notebook.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\bin\Debug\_7.Vladkos_Notebook.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\obj\Debug\7. Vladkos Notebook.csprojResolveAssemblyReference.cache
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\obj\Debug\_7.Vladkos_Notebook.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\7. Vladkos Notebook\obj\Debug\_7.Vladkos_Notebook.pdb

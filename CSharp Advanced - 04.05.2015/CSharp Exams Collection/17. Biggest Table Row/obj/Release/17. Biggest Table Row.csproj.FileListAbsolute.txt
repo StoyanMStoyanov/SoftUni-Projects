@@ -1,0 +1,5 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\bin\Release\_17.Biggest_Table_Row.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\bin\Release\_17.Biggest_Table_Row.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\bin\Release\_17.Biggest_Table_Row.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\obj\Release\_17.Biggest_Table_Row.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\obj\Release\_17.Biggest_Table_Row.pdb

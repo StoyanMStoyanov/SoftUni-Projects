@@ -1,0 +1,6 @@
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\bin\Debug\_17.Biggest_Table_Row.exe.config
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\bin\Debug\_17.Biggest_Table_Row.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\bin\Debug\_17.Biggest_Table_Row.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\obj\Debug\_17.Biggest_Table_Row.exe
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\obj\Debug\_17.Biggest_Table_Row.pdb
+C:\Users\stoyan.stoyanov\Desktop\SoftUni-Projects\CSharp Advanced - 04.05.2015\CSharp Exams Collection\17. Biggest Table Row\obj\Debug\17. Biggest Table Row.csprojResolveAssemblyReference.cache
